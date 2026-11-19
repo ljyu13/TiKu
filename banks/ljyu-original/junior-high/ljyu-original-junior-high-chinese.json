@@ -1,0 +1,117 @@
+{
+  "format": "wrong-notebook-question-bank",
+  "version": 1,
+  "meta": {
+    "id": "ljyu-original-junior-high-chinese",
+    "title": "ljyu13 原创初中语文（七至九年级）",
+    "stage": "junior_high",
+    "subject": "chinese",
+    "grades": [],
+    "count": 6,
+    "tagged": true,
+    "source": "ljyu13 原创编写",
+    "license": "CC-BY-NC-4.0",
+    "updatedAt": "2026-11-19"
+  },
+  "questions": [
+    {
+      "id": "ljyu-jh-cn-01",
+      "grade": 7,
+      "questionType": "single_choice",
+      "text": "下列词语中划线字读音完全正确的一项是？",
+      "options": {
+        "A": "狭隘（yì）",
+        "B": "确凿（záo）",
+        "C": "粗犷（kuàng）",
+        "D": "怂恿（yǔ）"
+      },
+      "answer": "B",
+      "analysis": "A 项“狭隘”的“隘”读 ài；C 项“粗犷”的“犷”读 guǎng；D 项“怂恿”的“恿”读 yǒng。B 项正确。",
+      "knowledgePoints": [
+        "字音"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-cn-02",
+      "grade": 7,
+      "questionType": "fill_blank",
+      "text": "《论语》中阐述学习与思考关系的名句是：学而不思则罔，___。",
+      "answer": "思而不学则殆",
+      "analysis": "出自《论语·为政》，强调学习与思考要结合。",
+      "knowledgePoints": [
+        "文言文默写",
+        "论语"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-cn-03",
+      "grade": 8,
+      "questionType": "single_choice",
+      "text": "下列句子没有语病的一项是？",
+      "options": {
+        "A": "通过这次活动，使我明白了许多道理。",
+        "B": "他大约十岁左右。",
+        "C": "这本书深受同学们喜爱。",
+        "D": "他的写作水平明显改进了。"
+      },
+      "answer": "C",
+      "analysis": "A 项“通过……使……”连用导致缺少主语；B 项“大约”和“左右”语义重复；D 项搭配不当，“水平”应与“提高”搭配。C 项正确。",
+      "knowledgePoints": [
+        "病句辨析"
+      ],
+      "difficultyStars": 3,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-cn-04",
+      "grade": 8,
+      "questionType": "true_false",
+      "text": "《背影》的作者是朱自清，文章通过父亲买橘子的细节表现父子之情。",
+      "answer": "正确",
+      "analysis": "《背影》是朱自清的散文名篇，车站送别时父亲跨越月台买橘子的背影是全文的核心细节。",
+      "knowledgePoints": [
+        "文学常识",
+        "背影"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-cn-05",
+      "grade": 9,
+      "questionType": "single_choice",
+      "text": "“先天下之忧而忧，后天下之乐而乐”出自哪部作品？",
+      "options": {
+        "A": "《岳阳楼记》",
+        "B": "《醉翁亭记》",
+        "C": "《小石潭记》",
+        "D": "《记承天寺夜游》"
+      },
+      "answer": "A",
+      "analysis": "该句出自范仲淹的《岳阳楼记》，表达了以天下为己任的政治抱负。",
+      "knowledgePoints": [
+        "文学常识"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-cn-06",
+      "grade": 9,
+      "questionType": "solution",
+      "text": "赏析“大漠孤烟直，长河落日圆”这句诗的画面美。",
+      "answer": "这两句诗描绘了边塞大漠的壮阔景象：广袤沙漠中一缕孤烟笔直升起，黄河尽头一轮落日浑圆低垂。",
+      "analysis": "“大”“长”写空间辽阔，“孤”“直”写景象的劲拔坚毅，“圆”写落日的温柔苍茫，线条与色彩对比鲜明，尽显边塞风光的雄浑与静美。",
+      "knowledgePoints": [
+        "诗歌赏析",
+        "使至塞上"
+      ],
+      "difficultyStars": 4,
+      "source": "ljyu13 原创"
+    }
+  ]
+}
