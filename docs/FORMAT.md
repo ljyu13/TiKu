@@ -6,12 +6,12 @@
 
 ```
 banks/<来源集>/collection.json          来源集声明：作者、来源、许可、维护者
-banks/<来源集>/<学段>/<包id>.json       题库包：一个学段、一个学科的题目集合
+banks/<来源集>/<学段>/<包id>.json       题库包：一个学段、一个学科、一个年级的 1000 道题
 index.json                              索引，由 tools/tiku.py build 生成
 docs/CATALOG.md                         人类可读目录，由 build 一并生成
 ```
 
-学段目录名为 `primary`（小学）、`junior-high`（初中）、`senior-high`（高中）。`tiku.py` 会递归扫描子目录，题库包放在任意一层都能被索引到。
+学段目录名为 `primary`（小学）、`junior-high`（初中）、`senior-high`（高中）。题库包 id 形如 `ljyu-original-primary-math-g5`，末尾 `-gN` 表示年级；`meta.grades` 为单元素数组 `[N]`。小程序解析时优先取 `grades[0]` 作为题目年级，因此分年级包能保证筛选准确。`tiku.py` 会递归扫描子目录。
 
 `index.json` 和 `docs/CATALOG.md` 不要手工改。新增或修改题库包之后运行：
 

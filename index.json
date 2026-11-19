@@ -4,324 +4,1300 @@
   "updatedAt": "2026-11-19",
   "packages": [
     {
-      "id": "ljyu-original-primary-math",
-      "title": "ljyu13 原创小学数学（二至六年级）",
+      "id": "ljyu-original-primary-math-g1",
+      "title": "ljyu13 原创小学数学（1年级）",
       "stage": "primary",
       "subject": "math",
-      "grades": [],
-      "count": 10,
+      "grades": [
+        1
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/primary/ljyu-original-primary-math.json",
-      "sizeBytes": 5409,
-      "sha256": "b4c5d5122d4f0d43b4140731efe8c3164f6b9786e24b6b1385ae7f9cfed77726"
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-math-g1.json",
+      "sizeBytes": 339778,
+      "sha256": "f010b35a11dbfdbba11ee810bba8e1a75552a29102c74ca0f7c0e053ff61e6d9"
     },
     {
-      "id": "ljyu-original-primary-chinese",
-      "title": "ljyu13 原创小学语文（一至六年级）",
+      "id": "ljyu-original-primary-math-g2",
+      "title": "ljyu13 原创小学数学（2年级）",
+      "stage": "primary",
+      "subject": "math",
+      "grades": [
+        2
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-math-g2.json",
+      "sizeBytes": 339299,
+      "sha256": "cc8b4b022128dfc1523cf90275d8656c3e476f14f9cfb3b35e710f763fe8fc8a"
+    },
+    {
+      "id": "ljyu-original-primary-math-g3",
+      "title": "ljyu13 原创小学数学（3年级）",
+      "stage": "primary",
+      "subject": "math",
+      "grades": [
+        3
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-math-g3.json",
+      "sizeBytes": 338628,
+      "sha256": "bcf61136f57696efabc396b7b5dd5d5bd55ab74ec52e33ab7a2d3dcc1a6e6a7c"
+    },
+    {
+      "id": "ljyu-original-primary-math-g4",
+      "title": "ljyu13 原创小学数学（4年级）",
+      "stage": "primary",
+      "subject": "math",
+      "grades": [
+        4
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-math-g4.json",
+      "sizeBytes": 340724,
+      "sha256": "e5334476fd436fe71325574ae92604e43b957557fd747d19a5cb428b4cf9c726"
+    },
+    {
+      "id": "ljyu-original-primary-math-g5",
+      "title": "ljyu13 原创小学数学（5年级）",
+      "stage": "primary",
+      "subject": "math",
+      "grades": [
+        5
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-math-g5.json",
+      "sizeBytes": 340919,
+      "sha256": "f64f0edb0974e515b5fb3460bf744d1c67481c7d49aa73c2a96cf9c0d56e9b37"
+    },
+    {
+      "id": "ljyu-original-primary-math-g6",
+      "title": "ljyu13 原创小学数学（6年级）",
+      "stage": "primary",
+      "subject": "math",
+      "grades": [
+        6
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-math-g6.json",
+      "sizeBytes": 343475,
+      "sha256": "fa5c16714b83ea0cc1632e5de8ac0d6887db5cb0a80d36dbb6387729ea37551f"
+    },
+    {
+      "id": "ljyu-original-primary-chinese-g1",
+      "title": "ljyu13 原创小学语文（1年级）",
       "stage": "primary",
       "subject": "chinese",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        1
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese.json",
-      "sizeBytes": 3740,
-      "sha256": "1a9522911a20cd1d6760857510d302e9bd565ee51309b487e2bee28d1eaad86d"
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese-g1.json",
+      "sizeBytes": 360992,
+      "sha256": "6a0001630d1aef3f64b09be94882debf22fda32def910549fa4ced1ee0d7816d"
     },
     {
-      "id": "ljyu-original-primary-english",
-      "title": "ljyu13 原创小学英语（三至六年级）",
+      "id": "ljyu-original-primary-chinese-g2",
+      "title": "ljyu13 原创小学语文（2年级）",
+      "stage": "primary",
+      "subject": "chinese",
+      "grades": [
+        2
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese-g2.json",
+      "sizeBytes": 360822,
+      "sha256": "bf7d3c424f48b1e31c9efe24404bd75bf41d7171478f1eb100aa29cb60967ead"
+    },
+    {
+      "id": "ljyu-original-primary-chinese-g3",
+      "title": "ljyu13 原创小学语文（3年级）",
+      "stage": "primary",
+      "subject": "chinese",
+      "grades": [
+        3
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese-g3.json",
+      "sizeBytes": 360101,
+      "sha256": "d896706fa1ae753089430361efb77f96afa3b8f2718a3c3192c2b23cc8cd090a"
+    },
+    {
+      "id": "ljyu-original-primary-chinese-g4",
+      "title": "ljyu13 原创小学语文（4年级）",
+      "stage": "primary",
+      "subject": "chinese",
+      "grades": [
+        4
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese-g4.json",
+      "sizeBytes": 361838,
+      "sha256": "fb2b58df22a72b40a9a39852a481f5b62e3fe71069a0cc8966478adf50a324f6"
+    },
+    {
+      "id": "ljyu-original-primary-chinese-g5",
+      "title": "ljyu13 原创小学语文（5年级）",
+      "stage": "primary",
+      "subject": "chinese",
+      "grades": [
+        5
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese-g5.json",
+      "sizeBytes": 360743,
+      "sha256": "106ac1a7c3fb5c0515ffd5a2de25fe712bda06b7a2d10859dee60ce66b6673d7"
+    },
+    {
+      "id": "ljyu-original-primary-chinese-g6",
+      "title": "ljyu13 原创小学语文（6年级）",
+      "stage": "primary",
+      "subject": "chinese",
+      "grades": [
+        6
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese-g6.json",
+      "sizeBytes": 362533,
+      "sha256": "cf623ca49c863db8136369e164e7de9e32b156e292450295c84cdb2aab8279f7"
+    },
+    {
+      "id": "ljyu-original-primary-english-g1",
+      "title": "ljyu13 原创小学英语（1年级）",
       "stage": "primary",
       "subject": "english",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        1
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/primary/ljyu-original-primary-english.json",
-      "sizeBytes": 3121,
-      "sha256": "4c5565fd4f314b2430a660b4d1e69256a31e8e358f3d4a93f841a0654ab474cb"
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-english-g1.json",
+      "sizeBytes": 301570,
+      "sha256": "f9d897a4e05a4fc05e1efcdde9ddd6573dc486433f528deca9c39d044e2804f8"
     },
     {
-      "id": "ljyu-original-primary-science",
-      "title": "ljyu13 原创小学科学（一至六年级）",
+      "id": "ljyu-original-primary-english-g2",
+      "title": "ljyu13 原创小学英语（2年级）",
+      "stage": "primary",
+      "subject": "english",
+      "grades": [
+        2
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-english-g2.json",
+      "sizeBytes": 301931,
+      "sha256": "38e24d32799904daaaf043b5c14849d2661aaa2856c8c69e04250d3c0e3949e3"
+    },
+    {
+      "id": "ljyu-original-primary-english-g3",
+      "title": "ljyu13 原创小学英语（3年级）",
+      "stage": "primary",
+      "subject": "english",
+      "grades": [
+        3
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-english-g3.json",
+      "sizeBytes": 301894,
+      "sha256": "9a12f59ab1d9b62a2989f48a21c07591c403bd98c7fb462f1becfc008948b78c"
+    },
+    {
+      "id": "ljyu-original-primary-english-g4",
+      "title": "ljyu13 原创小学英语（4年级）",
+      "stage": "primary",
+      "subject": "english",
+      "grades": [
+        4
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-english-g4.json",
+      "sizeBytes": 301694,
+      "sha256": "da00752a913d3c61d03b9cd98b7456a2a3d5869aaa91fa2de8fe9266f2b5c6c9"
+    },
+    {
+      "id": "ljyu-original-primary-english-g5",
+      "title": "ljyu13 原创小学英语（5年级）",
+      "stage": "primary",
+      "subject": "english",
+      "grades": [
+        5
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-english-g5.json",
+      "sizeBytes": 301482,
+      "sha256": "9683cfa44824f2672a86c5a03589692a49956a229a53048ef7309c4aa2ba5345"
+    },
+    {
+      "id": "ljyu-original-primary-english-g6",
+      "title": "ljyu13 原创小学英语（6年级）",
+      "stage": "primary",
+      "subject": "english",
+      "grades": [
+        6
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-english-g6.json",
+      "sizeBytes": 301567,
+      "sha256": "a8b7fda81325a854193c570fbafe008e16113ed54a1195809c3762bb76695ecb"
+    },
+    {
+      "id": "ljyu-original-primary-science-g1",
+      "title": "ljyu13 原创小学科学（1年级）",
       "stage": "primary",
       "subject": "science",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        1
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/primary/ljyu-original-primary-science.json",
-      "sizeBytes": 3358,
-      "sha256": "b4a3451a8befdd0d44c38528392683d5f267540828ca259b0cd81d1c5c51003d"
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-science-g1.json",
+      "sizeBytes": 310939,
+      "sha256": "f08999539129ae4eba03793bd914338f2fa1c1b7d21257d654713ffa2c0a9683"
     },
     {
-      "id": "ljyu-original-junior-high-math",
-      "title": "ljyu13 原创初中数学（七至九年级）",
+      "id": "ljyu-original-primary-science-g2",
+      "title": "ljyu13 原创小学科学（2年级）",
+      "stage": "primary",
+      "subject": "science",
+      "grades": [
+        2
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-science-g2.json",
+      "sizeBytes": 309314,
+      "sha256": "f054cc56e3a77b240e92874a535ff7f5826ab12dad1fd3a653269847a2971779"
+    },
+    {
+      "id": "ljyu-original-primary-science-g3",
+      "title": "ljyu13 原创小学科学（3年级）",
+      "stage": "primary",
+      "subject": "science",
+      "grades": [
+        3
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-science-g3.json",
+      "sizeBytes": 310061,
+      "sha256": "77702f836f6228dfca56d603c3e804fcb5c44bd0ae9e9d74917f82e0848023f2"
+    },
+    {
+      "id": "ljyu-original-primary-science-g4",
+      "title": "ljyu13 原创小学科学（4年级）",
+      "stage": "primary",
+      "subject": "science",
+      "grades": [
+        4
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-science-g4.json",
+      "sizeBytes": 310472,
+      "sha256": "b6aea9123d0458b14390f3e4aa4770cc1438bdee404312e90dbf906deac6c58f"
+    },
+    {
+      "id": "ljyu-original-primary-science-g5",
+      "title": "ljyu13 原创小学科学（5年级）",
+      "stage": "primary",
+      "subject": "science",
+      "grades": [
+        5
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-science-g5.json",
+      "sizeBytes": 310199,
+      "sha256": "5486ea99fd580472e22a291a3a4b75efe94e641a80dc60e18a9991e531bd4dae"
+    },
+    {
+      "id": "ljyu-original-primary-science-g6",
+      "title": "ljyu13 原创小学科学（6年级）",
+      "stage": "primary",
+      "subject": "science",
+      "grades": [
+        6
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-science-g6.json",
+      "sizeBytes": 308852,
+      "sha256": "647244fe86ce011857ee05cd2d967bf2cab0e0b76900d543edcc0befdf0b8ccc"
+    },
+    {
+      "id": "ljyu-original-junior-high-math-g7",
+      "title": "ljyu13 原创初中数学（7年级）",
       "stage": "junior_high",
       "subject": "math",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        7
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-math.json",
-      "sizeBytes": 3421,
-      "sha256": "386c63851ea4692ebaf1f27a4547d67e2402753ef7f97c450dc02bd2a551684b"
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-math-g7.json",
+      "sizeBytes": 355311,
+      "sha256": "0a90aadc2f5d78382a2277a0e32447f6cef11d7631488c35126c880e3b25d25d"
     },
     {
-      "id": "ljyu-original-junior-high-chinese",
-      "title": "ljyu13 原创初中语文（七至九年级）",
+      "id": "ljyu-original-junior-high-math-g8",
+      "title": "ljyu13 原创初中数学（8年级）",
+      "stage": "junior_high",
+      "subject": "math",
+      "grades": [
+        8
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-math-g8.json",
+      "sizeBytes": 355533,
+      "sha256": "f3573847f35b7e30d0adba6b0013703ac16186740b152d1cb6d13fdb09c631ae"
+    },
+    {
+      "id": "ljyu-original-junior-high-math-g9",
+      "title": "ljyu13 原创初中数学（9年级）",
+      "stage": "junior_high",
+      "subject": "math",
+      "grades": [
+        9
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-math-g9.json",
+      "sizeBytes": 354209,
+      "sha256": "a7c08142997584181f20dfe695994363855ca09988f6fff0d27eb0bb5f0a458a"
+    },
+    {
+      "id": "ljyu-original-junior-high-chinese-g7",
+      "title": "ljyu13 原创初中语文（7年级）",
       "stage": "junior_high",
       "subject": "chinese",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        7
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chinese.json",
-      "sizeBytes": 4165,
-      "sha256": "f0d21142b064f85b9d5fdff00ab7fba43e2861442e10938fa9b5d865fb0d9867"
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chinese-g7.json",
+      "sizeBytes": 386766,
+      "sha256": "b8caf7dfc80baf13d9fe6a325b8940d418d278fa73f2d4275b83a1448e3ee189"
     },
     {
-      "id": "ljyu-original-junior-high-english",
-      "title": "ljyu13 原创初中英语（七至九年级）",
+      "id": "ljyu-original-junior-high-chinese-g8",
+      "title": "ljyu13 原创初中语文（8年级）",
+      "stage": "junior_high",
+      "subject": "chinese",
+      "grades": [
+        8
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chinese-g8.json",
+      "sizeBytes": 384474,
+      "sha256": "5be5c0417027fb5aa38d7849be42ef40c1e77dcdcf38b667dfaa9ecae8946bbb"
+    },
+    {
+      "id": "ljyu-original-junior-high-chinese-g9",
+      "title": "ljyu13 原创初中语文（9年级）",
+      "stage": "junior_high",
+      "subject": "chinese",
+      "grades": [
+        9
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chinese-g9.json",
+      "sizeBytes": 386455,
+      "sha256": "dda49b790212e0697dbfe284220868bdb3bce769b9f280cb704cd732b2a08eb3"
+    },
+    {
+      "id": "ljyu-original-junior-high-english-g7",
+      "title": "ljyu13 原创初中英语（7年级）",
       "stage": "junior_high",
       "subject": "english",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        7
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-english.json",
-      "sizeBytes": 3353,
-      "sha256": "5844a10a01dcefae2095d792f2eb2596cc3809772927b88a2b42884155d3e054"
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-english-g7.json",
+      "sizeBytes": 312741,
+      "sha256": "485475478613e36898dfc01c72a4df62463bc0de3bc55b992ee6ad05a159dec4"
     },
     {
-      "id": "ljyu-original-junior-high-physics",
-      "title": "ljyu13 原创初中物理（八至九年级）",
+      "id": "ljyu-original-junior-high-english-g8",
+      "title": "ljyu13 原创初中英语（8年级）",
+      "stage": "junior_high",
+      "subject": "english",
+      "grades": [
+        8
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-english-g8.json",
+      "sizeBytes": 313045,
+      "sha256": "966797f86a1d9ee8058136b0aa4d7f6366079765d9fa11d33e9508ce9228f8f6"
+    },
+    {
+      "id": "ljyu-original-junior-high-english-g9",
+      "title": "ljyu13 原创初中英语（9年级）",
+      "stage": "junior_high",
+      "subject": "english",
+      "grades": [
+        9
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-english-g9.json",
+      "sizeBytes": 312809,
+      "sha256": "4d085b6acfa51058ff29c5d2572d9a199bdfbbfd0ba4f1f90a276a774aba945b"
+    },
+    {
+      "id": "ljyu-original-junior-high-physics-g7",
+      "title": "ljyu13 原创初中物理（7年级）",
       "stage": "junior_high",
       "subject": "physics",
-      "grades": [],
-      "count": 8,
+      "grades": [
+        7
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-physics.json",
-      "sizeBytes": 4825,
-      "sha256": "d9a15070980076c4b8294a54bd465fd9421cae338f532470e7b3006da1493572"
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-physics-g7.json",
+      "sizeBytes": 385299,
+      "sha256": "95659ef4695672b8de5480605f945ef0ae5218209d46791e590e38de3d425b79"
     },
     {
-      "id": "ljyu-original-junior-high-chemistry",
-      "title": "ljyu13 原创初中化学（九年级）",
+      "id": "ljyu-original-junior-high-physics-g8",
+      "title": "ljyu13 原创初中物理（8年级）",
+      "stage": "junior_high",
+      "subject": "physics",
+      "grades": [
+        8
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-physics-g8.json",
+      "sizeBytes": 384624,
+      "sha256": "94b3465e469685efd5637a9d34cba144d8961a569bfd4729ed175d0390168d4b"
+    },
+    {
+      "id": "ljyu-original-junior-high-physics-g9",
+      "title": "ljyu13 原创初中物理（9年级）",
+      "stage": "junior_high",
+      "subject": "physics",
+      "grades": [
+        9
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-physics-g9.json",
+      "sizeBytes": 384052,
+      "sha256": "9636885eaeb4766518fa08fefbcac09760a91079387106a7e51b6792c0f81089"
+    },
+    {
+      "id": "ljyu-original-junior-high-chemistry-g7",
+      "title": "ljyu13 原创初中化学（7年级）",
       "stage": "junior_high",
       "subject": "chemistry",
-      "grades": [],
-      "count": 7,
+      "grades": [
+        7
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry.json",
-      "sizeBytes": 3883,
-      "sha256": "261f686dfbcc116d958fd5a83e442eed6462a896cb043147b5b5e1edf9825873"
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry-g7.json",
+      "sizeBytes": 351477,
+      "sha256": "588e18ea8161105ec99626bc05a79825ef30447ae1f4366e6ce7fda1486e3875"
     },
     {
-      "id": "ljyu-original-junior-high-biology",
-      "title": "ljyu13 原创初中生物（七至八年级）",
+      "id": "ljyu-original-junior-high-chemistry-g8",
+      "title": "ljyu13 原创初中化学（8年级）",
+      "stage": "junior_high",
+      "subject": "chemistry",
+      "grades": [
+        8
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry-g8.json",
+      "sizeBytes": 352177,
+      "sha256": "24da947d9138fa1424155eb296f9fc3c03f8b7d2177487a4620020dcf9fb2831"
+    },
+    {
+      "id": "ljyu-original-junior-high-chemistry-g9",
+      "title": "ljyu13 原创初中化学（9年级）",
+      "stage": "junior_high",
+      "subject": "chemistry",
+      "grades": [
+        9
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry-g9.json",
+      "sizeBytes": 349500,
+      "sha256": "59e53fe297373548a9022ba18c6aa2d5f8d0177f3e97c04b0f058c03c9c44abf"
+    },
+    {
+      "id": "ljyu-original-junior-high-biology-g7",
+      "title": "ljyu13 原创初中生物（7年级）",
       "stage": "junior_high",
       "subject": "biology",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        7
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-biology.json",
-      "sizeBytes": 3516,
-      "sha256": "c668b25f3c96a27892103bd4a0176fcf4d2f4abcf963bb384232bfb46d1e0730"
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-biology-g7.json",
+      "sizeBytes": 347336,
+      "sha256": "89c0ed47d5f753ed84f8293b05b1cc1b19b047ba2639f452e1f0ff7e198ddebf"
     },
     {
-      "id": "ljyu-original-junior-high-history",
-      "title": "ljyu13 原创初中历史（七至九年级）",
+      "id": "ljyu-original-junior-high-biology-g8",
+      "title": "ljyu13 原创初中生物（8年级）",
+      "stage": "junior_high",
+      "subject": "biology",
+      "grades": [
+        8
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-biology-g8.json",
+      "sizeBytes": 347700,
+      "sha256": "89a90d049e1dd7fed0da28a19fefb65b2c681bb05f3af2bb4afb8f4947b1dbfa"
+    },
+    {
+      "id": "ljyu-original-junior-high-biology-g9",
+      "title": "ljyu13 原创初中生物（9年级）",
+      "stage": "junior_high",
+      "subject": "biology",
+      "grades": [
+        9
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-biology-g9.json",
+      "sizeBytes": 347621,
+      "sha256": "8ed2692dbeb08809b04fa97289e4068c129e30e11fa4341278c7d139805ba1f8"
+    },
+    {
+      "id": "ljyu-original-junior-high-history-g7",
+      "title": "ljyu13 原创初中历史（7年级）",
       "stage": "junior_high",
       "subject": "history",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        7
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-history.json",
-      "sizeBytes": 3488,
-      "sha256": "868cbd997922e4d0a1bbc3d45d531c634b016aa27075c21443c5e3ddc80c920f"
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-history-g7.json",
+      "sizeBytes": 375388,
+      "sha256": "2d2a4e1e17a105d8e3c135ad74ff2be02008bfef17c7b26906ab43adfc400cde"
     },
     {
-      "id": "ljyu-original-junior-high-geography",
-      "title": "ljyu13 原创初中地理（七至八年级）",
+      "id": "ljyu-original-junior-high-history-g8",
+      "title": "ljyu13 原创初中历史（8年级）",
+      "stage": "junior_high",
+      "subject": "history",
+      "grades": [
+        8
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-history-g8.json",
+      "sizeBytes": 374657,
+      "sha256": "db7de16985a9229fc83e9ec865bb24d9e9c2708dfd8232d80a77a6ba0d41abe4"
+    },
+    {
+      "id": "ljyu-original-junior-high-history-g9",
+      "title": "ljyu13 原创初中历史（9年级）",
+      "stage": "junior_high",
+      "subject": "history",
+      "grades": [
+        9
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-history-g9.json",
+      "sizeBytes": 373252,
+      "sha256": "589ca6c86931ec36995a1651ad7dab958515689a9155c2331ba4c908d2d0b45c"
+    },
+    {
+      "id": "ljyu-original-junior-high-geography-g7",
+      "title": "ljyu13 原创初中地理（7年级）",
       "stage": "junior_high",
       "subject": "geography",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        7
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-geography.json",
-      "sizeBytes": 3548,
-      "sha256": "6c0afdd05f1e0c33dbefcc444b02ed3b1f7092e456558c926a84f19e5a0bf2e5"
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g7.json",
+      "sizeBytes": 349390,
+      "sha256": "1a7388b5232dc9feb4a50475926bb40319cecdbddf80472fb180559c6337ca2b"
     },
     {
-      "id": "ljyu-original-senior-high-math",
-      "title": "ljyu13 原创高中数学（十至十二年级）",
+      "id": "ljyu-original-junior-high-geography-g8",
+      "title": "ljyu13 原创初中地理（8年级）",
+      "stage": "junior_high",
+      "subject": "geography",
+      "grades": [
+        8
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g8.json",
+      "sizeBytes": 349556,
+      "sha256": "a387908525a66df0ce1490710ed1bfa6692eef0893aa373fdceab5b9d258d86e"
+    },
+    {
+      "id": "ljyu-original-junior-high-geography-g9",
+      "title": "ljyu13 原创初中地理（9年级）",
+      "stage": "junior_high",
+      "subject": "geography",
+      "grades": [
+        9
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g9.json",
+      "sizeBytes": 350258,
+      "sha256": "00313f3e827cc0239b59169b604ffcf42e0056aaa91078bc3ffbcf6a6808c76f"
+    },
+    {
+      "id": "ljyu-original-senior-high-math-g10",
+      "title": "ljyu13 原创高中数学（10年级）",
       "stage": "senior_high",
       "subject": "math",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        10
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-math.json",
-      "sizeBytes": 3458,
-      "sha256": "5aebb3e45f77772b8dc5c7ea2be5006a0430ac5aa3fd2005319d0a8ab62ebf2e"
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-math-g10.json",
+      "sizeBytes": 361888,
+      "sha256": "5c4471fd24b6c2d0ffb2b1f0a6b651e5c8f69ef5458c89f3c8298798baa19a43"
     },
     {
-      "id": "ljyu-original-senior-high-chinese",
-      "title": "ljyu13 原创高中语文（十至十二年级）",
+      "id": "ljyu-original-senior-high-math-g11",
+      "title": "ljyu13 原创高中数学（11年级）",
+      "stage": "senior_high",
+      "subject": "math",
+      "grades": [
+        11
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-math-g11.json",
+      "sizeBytes": 363072,
+      "sha256": "7a015f8e504b99a0e99b0f0eecdef9e439d6c8c0dda74c57fe55eaa8dec5ff96"
+    },
+    {
+      "id": "ljyu-original-senior-high-math-g12",
+      "title": "ljyu13 原创高中数学（12年级）",
+      "stage": "senior_high",
+      "subject": "math",
+      "grades": [
+        12
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-math-g12.json",
+      "sizeBytes": 362908,
+      "sha256": "65a1a19cbc614cada49a2da5a13232b0936dea508f4d657a6881fa5a23b37d50"
+    },
+    {
+      "id": "ljyu-original-senior-high-chinese-g10",
+      "title": "ljyu13 原创高中语文（10年级）",
       "stage": "senior_high",
       "subject": "chinese",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        10
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chinese.json",
-      "sizeBytes": 4499,
-      "sha256": "5fd435a00681aad1cc06f74c6a9d36053c86a7c32510112216d4baedc11a407b"
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chinese-g10.json",
+      "sizeBytes": 389139,
+      "sha256": "8bffc2fb7950901abdae25f8c5096feb3a99ec118486337260a473992b77ad14"
     },
     {
-      "id": "ljyu-original-senior-high-english",
-      "title": "ljyu13 原创高中英语（十至十二年级）",
+      "id": "ljyu-original-senior-high-chinese-g11",
+      "title": "ljyu13 原创高中语文（11年级）",
+      "stage": "senior_high",
+      "subject": "chinese",
+      "grades": [
+        11
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chinese-g11.json",
+      "sizeBytes": 388096,
+      "sha256": "8bb97bbecbdf5a780ec1828eb978bbf9c8a6af8a19f2b351c1a3d2df2f43885c"
+    },
+    {
+      "id": "ljyu-original-senior-high-chinese-g12",
+      "title": "ljyu13 原创高中语文（12年级）",
+      "stage": "senior_high",
+      "subject": "chinese",
+      "grades": [
+        12
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chinese-g12.json",
+      "sizeBytes": 387389,
+      "sha256": "2f5442c8a8bb3ac7698469f6d0eb38c52fe8b713c68f826771a78c88d14dcee1"
+    },
+    {
+      "id": "ljyu-original-senior-high-english-g10",
+      "title": "ljyu13 原创高中英语（10年级）",
       "stage": "senior_high",
       "subject": "english",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        10
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-english.json",
-      "sizeBytes": 3510,
-      "sha256": "71226caf8f59cf13f134fb8c30c7edfbc0e10b2244d3d213825d5e0bad8e7113"
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-english-g10.json",
+      "sizeBytes": 346275,
+      "sha256": "c5c42065fe992fa18b8f59c97cd61364b0442b54fe45ce97e01821da02e0033e"
     },
     {
-      "id": "ljyu-original-senior-high-physics",
-      "title": "ljyu13 原创高中物理（十至十二年级）",
+      "id": "ljyu-original-senior-high-english-g11",
+      "title": "ljyu13 原创高中英语（11年级）",
+      "stage": "senior_high",
+      "subject": "english",
+      "grades": [
+        11
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-english-g11.json",
+      "sizeBytes": 345715,
+      "sha256": "2d26ce76642bac9ee8a1f4c582a845ac1aac36afeaf409de92d37a95897df006"
+    },
+    {
+      "id": "ljyu-original-senior-high-english-g12",
+      "title": "ljyu13 原创高中英语（12年级）",
+      "stage": "senior_high",
+      "subject": "english",
+      "grades": [
+        12
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-english-g12.json",
+      "sizeBytes": 346403,
+      "sha256": "b90c51485b6deb19fc82d30f9bbff51b7ce8ced610a156765df800894bd59c1d"
+    },
+    {
+      "id": "ljyu-original-senior-high-physics-g10",
+      "title": "ljyu13 原创高中物理（10年级）",
       "stage": "senior_high",
       "subject": "physics",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        10
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-physics.json",
-      "sizeBytes": 3906,
-      "sha256": "7e3fc5bbd135aabf88c9c7b0b31694ce423164576f10a0734cf373b076b0adee"
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-physics-g10.json",
+      "sizeBytes": 384752,
+      "sha256": "38a2596bb2204d39b53063fc0fdd1d06b9d46aadbba2bfa2a5497bb9d7c5e80d"
     },
     {
-      "id": "ljyu-original-senior-high-chemistry",
-      "title": "ljyu13 原创高中化学（十至十二年级）",
+      "id": "ljyu-original-senior-high-physics-g11",
+      "title": "ljyu13 原创高中物理（11年级）",
+      "stage": "senior_high",
+      "subject": "physics",
+      "grades": [
+        11
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-physics-g11.json",
+      "sizeBytes": 386595,
+      "sha256": "bc2c636afc292ad98196d56d821bf7b314da247af76ba8e9de823118c19acaa8"
+    },
+    {
+      "id": "ljyu-original-senior-high-physics-g12",
+      "title": "ljyu13 原创高中物理（12年级）",
+      "stage": "senior_high",
+      "subject": "physics",
+      "grades": [
+        12
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-physics-g12.json",
+      "sizeBytes": 386382,
+      "sha256": "001eb97d8321877d8ba3d6e1d178b65b0c49fadbd18125ca34c2e720203e7a0d"
+    },
+    {
+      "id": "ljyu-original-senior-high-chemistry-g10",
+      "title": "ljyu13 原创高中化学（10年级）",
       "stage": "senior_high",
       "subject": "chemistry",
-      "grades": [],
-      "count": 10,
+      "grades": [
+        10
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry.json",
-      "sizeBytes": 5480,
-      "sha256": "87efeb466c6efb759a3bc1e7bf340bcd7f4ad0e2ae0edb1f5c39ba6a1cc52134"
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry-g10.json",
+      "sizeBytes": 353839,
+      "sha256": "8f3a8417c48bafffcd54dc2ba531134550e6c9367dff624367aff8f52b2f22f9"
     },
     {
-      "id": "ljyu-original-senior-high-biology",
-      "title": "ljyu13 原创高中生物（十至十二年级）",
+      "id": "ljyu-original-senior-high-chemistry-g11",
+      "title": "ljyu13 原创高中化学（11年级）",
+      "stage": "senior_high",
+      "subject": "chemistry",
+      "grades": [
+        11
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry-g11.json",
+      "sizeBytes": 353721,
+      "sha256": "14b94307e193f457a772ae468c872afbec00414fc32e76adc76d05992fbf69e3"
+    },
+    {
+      "id": "ljyu-original-senior-high-chemistry-g12",
+      "title": "ljyu13 原创高中化学（12年级）",
+      "stage": "senior_high",
+      "subject": "chemistry",
+      "grades": [
+        12
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry-g12.json",
+      "sizeBytes": 352625,
+      "sha256": "979bde34228dfa7aeff609ba0cb8a34a81f7702319df097d6ffd286bc0337b7c"
+    },
+    {
+      "id": "ljyu-original-senior-high-biology-g10",
+      "title": "ljyu13 原创高中生物（10年级）",
       "stage": "senior_high",
       "subject": "biology",
-      "grades": [],
-      "count": 7,
+      "grades": [
+        10
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-biology.json",
-      "sizeBytes": 4221,
-      "sha256": "0fb9a9a0dbcc72f6f4605950ab9562c6af5ea26cd834813d45a527cc6e019b63"
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-biology-g10.json",
+      "sizeBytes": 349459,
+      "sha256": "f4aa48b6248d95889d3da785275b7f429bad4b9977bbbf0c798a6559ba065037"
     },
     {
-      "id": "ljyu-original-senior-high-history",
-      "title": "ljyu13 原创高中历史（十至十二年级）",
+      "id": "ljyu-original-senior-high-biology-g11",
+      "title": "ljyu13 原创高中生物（11年级）",
+      "stage": "senior_high",
+      "subject": "biology",
+      "grades": [
+        11
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-biology-g11.json",
+      "sizeBytes": 349791,
+      "sha256": "09485c2798d1f91894a23da75550b9e4ec8675511b79ad85fe008631356feb07"
+    },
+    {
+      "id": "ljyu-original-senior-high-biology-g12",
+      "title": "ljyu13 原创高中生物（12年级）",
+      "stage": "senior_high",
+      "subject": "biology",
+      "grades": [
+        12
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-biology-g12.json",
+      "sizeBytes": 349626,
+      "sha256": "d4640e39a51b3b3586a23a491c759f26bcb54ca6857460b0daeb59a2ed93e755"
+    },
+    {
+      "id": "ljyu-original-senior-high-history-g10",
+      "title": "ljyu13 原创高中历史（10年级）",
       "stage": "senior_high",
       "subject": "history",
-      "grades": [],
-      "count": 6,
+      "grades": [
+        10
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-history.json",
-      "sizeBytes": 3681,
-      "sha256": "5d98edba5727c33e606a56bbcb2dc4af9fca14d3592037111d96974d2c7d63ec"
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-history-g10.json",
+      "sizeBytes": 377370,
+      "sha256": "994d60a06f306e29122f19525087372bd74e1b1364ae0245fe3ded221607774f"
     },
     {
-      "id": "ljyu-original-senior-high-geography",
-      "title": "ljyu13 原创高中地理（十至十二年级）",
+      "id": "ljyu-original-senior-high-history-g11",
+      "title": "ljyu13 原创高中历史（11年级）",
       "stage": "senior_high",
-      "subject": "geography",
-      "grades": [],
-      "count": 6,
+      "subject": "history",
+      "grades": [
+        11
+      ],
+      "count": 1000,
       "tagged": true,
       "source": "ljyu13 原创编写",
       "license": "CC-BY-NC-4.0",
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
-      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-geography.json",
-      "sizeBytes": 3765,
-      "sha256": "b713df6a8e41bc9b4cbdf64a386d1485a5151bca2a52799bb043f77a132fa9e9"
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-history-g11.json",
+      "sizeBytes": 376041,
+      "sha256": "2d8afab9abf0b6f5cce89fff4ac685bb6d44fb875cd9f45a48e0cd38a16277e4"
+    },
+    {
+      "id": "ljyu-original-senior-high-history-g12",
+      "title": "ljyu13 原创高中历史（12年级）",
+      "stage": "senior_high",
+      "subject": "history",
+      "grades": [
+        12
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-history-g12.json",
+      "sizeBytes": 377259,
+      "sha256": "667a413a5d797fef47470fc39baaf7457a8beb09eec5fe33d98d81ef735fed68"
+    },
+    {
+      "id": "ljyu-original-senior-high-geography-g10",
+      "title": "ljyu13 原创高中地理（10年级）",
+      "stage": "senior_high",
+      "subject": "geography",
+      "grades": [
+        10
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-geography-g10.json",
+      "sizeBytes": 352497,
+      "sha256": "5e053117964f7184c349e8c16b5f04c24100bb87084abeee5ce96349ba8a1029"
+    },
+    {
+      "id": "ljyu-original-senior-high-geography-g11",
+      "title": "ljyu13 原创高中地理（11年级）",
+      "stage": "senior_high",
+      "subject": "geography",
+      "grades": [
+        11
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-geography-g11.json",
+      "sizeBytes": 353014,
+      "sha256": "b6dceef470e4bb64812bd39e2a469b83de32df23d7e07a659b459489b245f1c5"
+    },
+    {
+      "id": "ljyu-original-senior-high-geography-g12",
+      "title": "ljyu13 原创高中地理（12年级）",
+      "stage": "senior_high",
+      "subject": "geography",
+      "grades": [
+        12
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-geography-g12.json",
+      "sizeBytes": 352546,
+      "sha256": "486d3cc461f0023aa14c473d0453c4dbdac4b22114bece18288c18cdf695754b"
     }
   ]
 }
