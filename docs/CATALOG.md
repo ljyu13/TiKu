@@ -32,12 +32,12 @@
 | 英语 | [`ljyu-original-primary-english-g4`](../banks/ljyu-original/primary/ljyu-original-primary-english-g4.json) | ljyu13 原创小学英语（4年级） | 1000 | 4 | 有 | 386 KB |
 | 英语 | [`ljyu-original-primary-english-g5`](../banks/ljyu-original/primary/ljyu-original-primary-english-g5.json) | ljyu13 原创小学英语（5年级） | 1000 | 5 | 有 | 385 KB |
 | 英语 | [`ljyu-original-primary-english-g6`](../banks/ljyu-original/primary/ljyu-original-primary-english-g6.json) | ljyu13 原创小学英语（6年级） | 1000 | 6 | 有 | 386 KB |
-| 科学 | [`ljyu-original-primary-science-g1`](../banks/ljyu-original/primary/ljyu-original-primary-science-g1.json) | ljyu13 原创小学科学（1年级） | 1000 | 1 | 有 | 379 KB |
-| 科学 | [`ljyu-original-primary-science-g2`](../banks/ljyu-original/primary/ljyu-original-primary-science-g2.json) | ljyu13 原创小学科学（2年级） | 1000 | 2 | 有 | 378 KB |
-| 科学 | [`ljyu-original-primary-science-g3`](../banks/ljyu-original/primary/ljyu-original-primary-science-g3.json) | ljyu13 原创小学科学（3年级） | 1000 | 3 | 有 | 378 KB |
-| 科学 | [`ljyu-original-primary-science-g4`](../banks/ljyu-original/primary/ljyu-original-primary-science-g4.json) | ljyu13 原创小学科学（4年级） | 1000 | 4 | 有 | 379 KB |
-| 科学 | [`ljyu-original-primary-science-g5`](../banks/ljyu-original/primary/ljyu-original-primary-science-g5.json) | ljyu13 原创小学科学（5年级） | 1000 | 5 | 有 | 379 KB |
-| 科学 | [`ljyu-original-primary-science-g6`](../banks/ljyu-original/primary/ljyu-original-primary-science-g6.json) | ljyu13 原创小学科学（6年级） | 1000 | 6 | 有 | 377 KB |
+| 科学 | [`ljyu-original-primary-science-g1`](../banks/ljyu-original/primary/ljyu-original-primary-science-g1.json) | ljyu13 原创小学科学（1年级） | 1000 | 1 | 有 | 337 KB |
+| 科学 | [`ljyu-original-primary-science-g2`](../banks/ljyu-original/primary/ljyu-original-primary-science-g2.json) | ljyu13 原创小学科学（2年级） | 1000 | 2 | 有 | 336 KB |
+| 科学 | [`ljyu-original-primary-science-g3`](../banks/ljyu-original/primary/ljyu-original-primary-science-g3.json) | ljyu13 原创小学科学（3年级） | 1000 | 3 | 有 | 335 KB |
+| 科学 | [`ljyu-original-primary-science-g4`](../banks/ljyu-original/primary/ljyu-original-primary-science-g4.json) | ljyu13 原创小学科学（4年级） | 1000 | 4 | 有 | 338 KB |
+| 科学 | [`ljyu-original-primary-science-g5`](../banks/ljyu-original/primary/ljyu-original-primary-science-g5.json) | ljyu13 原创小学科学（5年级） | 1000 | 5 | 有 | 337 KB |
+| 科学 | [`ljyu-original-primary-science-g6`](../banks/ljyu-original/primary/ljyu-original-primary-science-g6.json) | ljyu13 原创小学科学（6年级） | 1000 | 6 | 有 | 337 KB |
 | poetry | [`ljyu-original-primary-poetry-g0`](../banks/ljyu-original/primary/ljyu-original-primary-poetry-g0.json) | ljyu13 原创小学古诗词背诵（0年级·不限） | 1000 | 0 | 有 | 539 KB |
 
 ## 初中（25000 题）
@@ -56,18 +56,18 @@
 | 物理 | [`ljyu-original-junior-high-physics-g7`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-physics-g7.json) | ljyu13 原创初中物理（7年级） | 1000 | 7 | 有 | 422 KB |
 | 物理 | [`ljyu-original-junior-high-physics-g8`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-physics-g8.json) | ljyu13 原创初中物理（8年级） | 1000 | 8 | 有 | 421 KB |
 | 物理 | [`ljyu-original-junior-high-physics-g9`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-physics-g9.json) | ljyu13 原创初中物理（9年级） | 1000 | 9 | 有 | 421 KB |
-| 化学 | [`ljyu-original-junior-high-chemistry-g7`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry-g7.json) | ljyu13 原创初中化学（7年级） | 1000 | 7 | 有 | 436 KB |
-| 化学 | [`ljyu-original-junior-high-chemistry-g8`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry-g8.json) | ljyu13 原创初中化学（8年级） | 1000 | 8 | 有 | 436 KB |
-| 化学 | [`ljyu-original-junior-high-chemistry-g9`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry-g9.json) | ljyu13 原创初中化学（9年级） | 1000 | 9 | 有 | 434 KB |
-| 生物 | [`ljyu-original-junior-high-biology-g7`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-biology-g7.json) | ljyu13 原创初中生物（7年级） | 1000 | 7 | 有 | 432 KB |
-| 生物 | [`ljyu-original-junior-high-biology-g8`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-biology-g8.json) | ljyu13 原创初中生物（8年级） | 1000 | 8 | 有 | 432 KB |
-| 生物 | [`ljyu-original-junior-high-biology-g9`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-biology-g9.json) | ljyu13 原创初中生物（9年级） | 1000 | 9 | 有 | 432 KB |
-| 历史 | [`ljyu-original-junior-high-history-g7`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-history-g7.json) | ljyu13 原创初中历史（7年级） | 1000 | 7 | 有 | 450 KB |
-| 历史 | [`ljyu-original-junior-high-history-g8`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-history-g8.json) | ljyu13 原创初中历史（8年级） | 1000 | 8 | 有 | 449 KB |
-| 历史 | [`ljyu-original-junior-high-history-g9`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-history-g9.json) | ljyu13 原创初中历史（9年级） | 1000 | 9 | 有 | 447 KB |
-| 地理 | [`ljyu-original-junior-high-geography-g7`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g7.json) | ljyu13 原创初中地理（7年级） | 1000 | 7 | 有 | 428 KB |
-| 地理 | [`ljyu-original-junior-high-geography-g8`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g8.json) | ljyu13 原创初中地理（8年级） | 1000 | 8 | 有 | 428 KB |
-| 地理 | [`ljyu-original-junior-high-geography-g9`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g9.json) | ljyu13 原创初中地理（9年级） | 1000 | 9 | 有 | 429 KB |
+| 化学 | [`ljyu-original-junior-high-chemistry-g7`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry-g7.json) | ljyu13 原创初中化学（7年级） | 1000 | 7 | 有 | 368 KB |
+| 化学 | [`ljyu-original-junior-high-chemistry-g8`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry-g8.json) | ljyu13 原创初中化学（8年级） | 1000 | 8 | 有 | 368 KB |
+| 化学 | [`ljyu-original-junior-high-chemistry-g9`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry-g9.json) | ljyu13 原创初中化学（9年级） | 1000 | 9 | 有 | 369 KB |
+| 生物 | [`ljyu-original-junior-high-biology-g7`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-biology-g7.json) | ljyu13 原创初中生物（7年级） | 1000 | 7 | 有 | 363 KB |
+| 生物 | [`ljyu-original-junior-high-biology-g8`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-biology-g8.json) | ljyu13 原创初中生物（8年级） | 1000 | 8 | 有 | 364 KB |
+| 生物 | [`ljyu-original-junior-high-biology-g9`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-biology-g9.json) | ljyu13 原创初中生物（9年级） | 1000 | 9 | 有 | 364 KB |
+| 历史 | [`ljyu-original-junior-high-history-g7`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-history-g7.json) | ljyu13 原创初中历史（7年级） | 1000 | 7 | 有 | 378 KB |
+| 历史 | [`ljyu-original-junior-high-history-g8`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-history-g8.json) | ljyu13 原创初中历史（8年级） | 1000 | 8 | 有 | 378 KB |
+| 历史 | [`ljyu-original-junior-high-history-g9`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-history-g9.json) | ljyu13 原创初中历史（9年级） | 1000 | 9 | 有 | 377 KB |
+| 地理 | [`ljyu-original-junior-high-geography-g7`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g7.json) | ljyu13 原创初中地理（7年级） | 1000 | 7 | 有 | 368 KB |
+| 地理 | [`ljyu-original-junior-high-geography-g8`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g8.json) | ljyu13 原创初中地理（8年级） | 1000 | 8 | 有 | 369 KB |
+| 地理 | [`ljyu-original-junior-high-geography-g9`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g9.json) | ljyu13 原创初中地理（9年级） | 1000 | 9 | 有 | 368 KB |
 | poetry | [`ljyu-original-junior-high-poetry-g0`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-poetry-g0.json) | ljyu13 原创初中古诗词背诵（0年级·不限） | 1000 | 0 | 有 | 551 KB |
 
 ## 高中（24000 题）
@@ -86,15 +86,15 @@
 | 物理 | [`ljyu-original-senior-high-physics-g10`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-physics-g10.json) | ljyu13 原创高中物理（10年级） | 1000 | 10 | 有 | 422 KB |
 | 物理 | [`ljyu-original-senior-high-physics-g11`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-physics-g11.json) | ljyu13 原创高中物理（11年级） | 1000 | 11 | 有 | 423 KB |
 | 物理 | [`ljyu-original-senior-high-physics-g12`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-physics-g12.json) | ljyu13 原创高中物理（12年级） | 1000 | 12 | 有 | 423 KB |
-| 化学 | [`ljyu-original-senior-high-chemistry-g10`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry-g10.json) | ljyu13 原创高中化学（10年级） | 1000 | 10 | 有 | 439 KB |
-| 化学 | [`ljyu-original-senior-high-chemistry-g11`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry-g11.json) | ljyu13 原创高中化学（11年级） | 1000 | 11 | 有 | 438 KB |
-| 化学 | [`ljyu-original-senior-high-chemistry-g12`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry-g12.json) | ljyu13 原创高中化学（12年级） | 1000 | 12 | 有 | 437 KB |
-| 生物 | [`ljyu-original-senior-high-biology-g10`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-biology-g10.json) | ljyu13 原创高中生物（10年级） | 1000 | 10 | 有 | 434 KB |
-| 生物 | [`ljyu-original-senior-high-biology-g11`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-biology-g11.json) | ljyu13 原创高中生物（11年级） | 1000 | 11 | 有 | 434 KB |
-| 生物 | [`ljyu-original-senior-high-biology-g12`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-biology-g12.json) | ljyu13 原创高中生物（12年级） | 1000 | 12 | 有 | 435 KB |
-| 历史 | [`ljyu-original-senior-high-history-g10`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-history-g10.json) | ljyu13 原创高中历史（10年级） | 1000 | 10 | 有 | 451 KB |
-| 历史 | [`ljyu-original-senior-high-history-g11`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-history-g11.json) | ljyu13 原创高中历史（11年级） | 1000 | 11 | 有 | 450 KB |
-| 历史 | [`ljyu-original-senior-high-history-g12`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-history-g12.json) | ljyu13 原创高中历史（12年级） | 1000 | 12 | 有 | 451 KB |
-| 地理 | [`ljyu-original-senior-high-geography-g10`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-geography-g10.json) | ljyu13 原创高中地理（10年级） | 1000 | 10 | 有 | 431 KB |
-| 地理 | [`ljyu-original-senior-high-geography-g11`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-geography-g11.json) | ljyu13 原创高中地理（11年级） | 1000 | 11 | 有 | 431 KB |
-| 地理 | [`ljyu-original-senior-high-geography-g12`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-geography-g12.json) | ljyu13 原创高中地理（12年级） | 1000 | 12 | 有 | 431 KB |
+| 化学 | [`ljyu-original-senior-high-chemistry-g10`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry-g10.json) | ljyu13 原创高中化学（10年级） | 1000 | 10 | 有 | 370 KB |
+| 化学 | [`ljyu-original-senior-high-chemistry-g11`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry-g11.json) | ljyu13 原创高中化学（11年级） | 1000 | 11 | 有 | 370 KB |
+| 化学 | [`ljyu-original-senior-high-chemistry-g12`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry-g12.json) | ljyu13 原创高中化学（12年级） | 1000 | 12 | 有 | 370 KB |
+| 生物 | [`ljyu-original-senior-high-biology-g10`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-biology-g10.json) | ljyu13 原创高中生物（10年级） | 1000 | 10 | 有 | 365 KB |
+| 生物 | [`ljyu-original-senior-high-biology-g11`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-biology-g11.json) | ljyu13 原创高中生物（11年级） | 1000 | 11 | 有 | 365 KB |
+| 生物 | [`ljyu-original-senior-high-biology-g12`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-biology-g12.json) | ljyu13 原创高中生物（12年级） | 1000 | 12 | 有 | 365 KB |
+| 历史 | [`ljyu-original-senior-high-history-g10`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-history-g10.json) | ljyu13 原创高中历史（10年级） | 1000 | 10 | 有 | 380 KB |
+| 历史 | [`ljyu-original-senior-high-history-g11`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-history-g11.json) | ljyu13 原创高中历史（11年级） | 1000 | 11 | 有 | 379 KB |
+| 历史 | [`ljyu-original-senior-high-history-g12`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-history-g12.json) | ljyu13 原创高中历史（12年级） | 1000 | 12 | 有 | 379 KB |
+| 地理 | [`ljyu-original-senior-high-geography-g10`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-geography-g10.json) | ljyu13 原创高中地理（10年级） | 1000 | 10 | 有 | 372 KB |
+| 地理 | [`ljyu-original-senior-high-geography-g11`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-geography-g11.json) | ljyu13 原创高中地理（11年级） | 1000 | 11 | 有 | 370 KB |
+| 地理 | [`ljyu-original-senior-high-geography-g12`](../banks/ljyu-original/senior-high/ljyu-original-senior-high-geography-g12.json) | ljyu13 原创高中地理（12年级） | 1000 | 12 | 有 | 371 KB |
