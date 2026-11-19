@@ -1,0 +1,115 @@
+{
+  "format": "wrong-notebook-question-bank",
+  "version": 1,
+  "meta": {
+    "id": "ljyu-original-senior-high-geography",
+    "title": "ljyu13 原创高中地理（十至十二年级）",
+    "stage": "senior_high",
+    "subject": "geography",
+    "grades": [],
+    "count": 6,
+    "tagged": true,
+    "source": "ljyu13 原创编写",
+    "license": "CC-BY-NC-4.0",
+    "updatedAt": "2026-11-19"
+  },
+  "questions": [
+    {
+      "id": "ljyu-sh-ge-01",
+      "grade": 10,
+      "questionType": "single_choice",
+      "text": "地球自转产生的地理现象是？",
+      "options": {
+        "A": "四季更替",
+        "B": "昼夜交替",
+        "C": "正午太阳高度年变化",
+        "D": "昼长季节变化"
+      },
+      "answer": "B",
+      "analysis": "地球自转产生昼夜交替和地方时差；四季更替是公转产生的。",
+      "knowledgePoints": [
+        "地球自转"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ge-02",
+      "grade": 10,
+      "questionType": "fill_blank",
+      "text": "地球公转的周期约为___。",
+      "answer": "一年（约365天）",
+      "analysis": "地球绕太阳公转一周约需 365 天 6 小时，即一个回归年。",
+      "knowledgePoints": [
+        "地球公转"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ge-03",
+      "grade": 10,
+      "questionType": "true_false",
+      "text": "纬度越高，正午太阳高度角一般越小。",
+      "answer": "正确",
+      "analysis": "正午太阳高度由太阳直射点向南北两侧递减，纬度距直射点越远，高度角越小。",
+      "knowledgePoints": [
+        "太阳高度"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ge-04",
+      "grade": 11,
+      "questionType": "single_choice",
+      "text": "形成温带海洋性气候的主要原因是？",
+      "options": {
+        "A": "受季风影响",
+        "B": "受赤道低气压带控制",
+        "C": "常年受盛行西风影响",
+        "D": "深居内陆"
+      },
+      "answer": "C",
+      "analysis": "温带海洋性气候分布在南北纬 40°-60°大陆西岸，常年受盛行西风和海洋影响。",
+      "knowledgePoints": [
+        "气候类型"
+      ],
+      "difficultyStars": 3,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ge-05",
+      "grade": 11,
+      "questionType": "single_choice",
+      "text": "下列因素中，影响城市内部空间结构的主要经济因素是？",
+      "options": {
+        "A": "地租水平",
+        "B": "地形起伏",
+        "C": "历史文化",
+        "D": "气候条件"
+      },
+      "answer": "A",
+      "analysis": "地租高低（距市中心远近和交通通达度）是影响城市功能分区的主要经济因素。",
+      "knowledgePoints": [
+        "城市空间结构"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ge-06",
+      "grade": 12,
+      "questionType": "solution",
+      "text": "分析华北地区春旱严重的自然原因。",
+      "answer": "春季降水少、气温回升快、蒸发旺盛，且冬小麦返青需水量大。",
+      "analysis": "华北春季雨带尚未到达，降水稀少；气温回升快、多大风，蒸发旺盛；同时冬小麦返青生长需水量大，供需矛盾突出，故春旱严重。",
+      "knowledgePoints": [
+        "气象灾害",
+        "区域地理"
+      ],
+      "difficultyStars": 4,
+      "source": "ljyu13 原创"
+    }
+  ]
+}
