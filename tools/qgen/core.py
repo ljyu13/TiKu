@@ -14,6 +14,23 @@ TODAY = "2026-11-19"
 SOURCE = "ljyu13 原创编写"
 LETTERS = "ABCD"
 
+# 题型中文名：既写入 questionTypeName 字段，也作为题干前缀明确告知用户
+TYPE_NAMES = {
+    "single_choice": "单选题",
+    "multiple_choice": "多选题",
+    "true_false": "判断题",
+    "fill_blank": "填空题",
+    "calculation": "计算题",
+    "solution": "解答题",
+    "reading": "阅读题",
+    "cloze": "完形填空",
+    "writing": "写作题",
+    "other": "其他题",
+}
+
+# 判断题固定两个选项：A=正确，B=错误
+JUDGE_OPTIONS = {"A": "正确", "B": "错误"}
+
 
 def new_rng(*parts):
     """按任意字符串种子构造确定性随机源。"""
@@ -36,7 +53,9 @@ class Builder:
 
     def add(self, text, qtype, answer, analysis, kps,
             options=None, difficulty=2, semester=None, material=None):
-        """添加一道题；题干重复则返回 False。"""
+        """添加一道题；题干重复则返回 False。题干自动加题型前缀，明确告知题型。"""
+        type_name = TYPE_NAMES.get(qtype, "")
+        text = "【%s】%s" % (type_name, text) if type_name else str(text)
         key = " ".join(str(text).split())
         if not key or key in self._texts:
             return False
@@ -46,6 +65,7 @@ class Builder:
             "id": "%s-%04d" % (self.prefix, self._n),
             "grade": self.grade,
             "questionType": qtype,
+            "questionTypeName": type_name,
             "text": text,
         }
         if semester:
@@ -108,8 +128,12 @@ class Builder:
                         options=options, difficulty=difficulty)
 
     def judge(self, text, answer_bool, analysis, kps, difficulty=2):
-        return self.add(text, "true_false", "正确" if answer_bool else "错误",
-                        analysis, kps, difficulty=difficulty)
+        # 判断题作答方式：选项 A=正确、B=错误；answer 用字母，小程序点击选项即可判定
+        letter = "A" if answer_bool else "B"
+        word = "正确" if answer_bool else "错误"
+        full = "%s本题表述%s，应选 %s（%s）。" % (analysis, word, letter, word)
+        return self.add(text, "true_false", letter, full, kps,
+                        options=dict(JUDGE_OPTIONS), difficulty=difficulty)
 
     def fill(self, text, answer, analysis, kps, difficulty=2):
         return self.add(text, "fill_blank", str(answer), analysis, kps,
