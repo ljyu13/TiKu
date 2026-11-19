@@ -436,6 +436,24 @@
       "sha256": "647244fe86ce011857ee05cd2d967bf2cab0e0b76900d543edcc0befdf0b8ccc"
     },
     {
+      "id": "ljyu-original-primary-poetry-g0",
+      "title": "ljyu13 原创小学古诗词背诵（0年级·不限）",
+      "stage": "primary",
+      "subject": "poetry",
+      "grades": [
+        0
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/primary/ljyu-original-primary-poetry-g0.json",
+      "sizeBytes": 506315,
+      "sha256": "d307d2431e103e3e26ddc2f5b63082bdf4024343c9eb0b77601d8b93e14d8d7d"
+    },
+    {
       "id": "ljyu-original-junior-high-math-g7",
       "title": "ljyu13 原创初中数学（7年级）",
       "stage": "junior_high",
@@ -866,6 +884,24 @@
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g9.json",
       "sizeBytes": 350258,
       "sha256": "00313f3e827cc0239b59169b604ffcf42e0056aaa91078bc3ffbcf6a6808c76f"
+    },
+    {
+      "id": "ljyu-original-junior-high-poetry-g0",
+      "title": "ljyu13 原创初中古诗词背诵（0年级·不限）",
+      "stage": "junior_high",
+      "subject": "poetry",
+      "grades": [
+        0
+      ],
+      "count": 1000,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-poetry-g0.json",
+      "sizeBytes": 517732,
+      "sha256": "f8fa604bd4d0e492ab5fc394f9bf7924aa632a5c71d654ebc08a1466cbab6b96"
     },
     {
       "id": "ljyu-original-senior-high-math-g10",
