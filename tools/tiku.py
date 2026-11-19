@@ -41,7 +41,20 @@ def read_json(path):
 
 
 def bank_files():
-    return sorted(p for p in BANKS.glob("*/*.json") if p.name != "collection.json")
+    """递归扫描所有来源集目录下的题库包，兼容一层与两层目录结构。"""
+    return sorted(
+        p for p in BANKS.glob("**/*.json")
+        if p.name != "collection.json"
+    )
+
+
+def find_collection(path):
+    """向上查找题库包所属的 collection.json（可能在上一级或上上级目录）。"""
+    for parent in [path.parent] + list(path.parent.parents):
+        cand = parent / "collection.json"
+        if cand.exists():
+            return cand
+    return path.parent / "collection.json"
 
 
 def load_banks():
@@ -49,8 +62,9 @@ def load_banks():
     for path in bank_files():
         raw = path.read_bytes()
         data = json.loads(raw.decode("utf-8"))
-        collection_id = path.parent.name
-        collection = read_json(path.parent / "collection.json")
+        collection_path = find_collection(path)
+        collection_id = collection_path.parent.name
+        collection = read_json(collection_path)
         banks.append({
             "path": path,
             "data": data,
