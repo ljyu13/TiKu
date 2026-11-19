@@ -59,6 +59,17 @@ def check(path):
             errs.append("%s 无答案" % qid)
         if not q.get("analysis"):
             empty_analysis += 1
+        # 防回归：题干不得把答案词摆在题干（原反向选择题）
+        if "是下列哪一项的描述" in txt or "是下列哪一项的表述" in txt:
+            errs.append("%s 残留反向选择题" % qid)
+        # 防回归：解析不得是"随机错误词替换"式判断（原题干塞乱词）
+        if "表述错误；正确的是" in q.get("analysis", ""):
+            errs.append("%s 残留乱词判断题" % qid)
+        # 填空题题干应含留空符 ___
+        if t == "fill_blank":
+            body = q["text"][len("【%s】" % tn):] if tn else q["text"]
+            if "___" not in body:
+                errs.append("%s 填空题题干无留空符" % qid)
         if q.get("grade") != gid:
             errs.append("%s 年级=%s 应为%s" % (qid, q.get("grade"), gid))
         opts = q.get("options")
