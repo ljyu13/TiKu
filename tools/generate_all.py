@@ -13,7 +13,7 @@ import sys
 from pathlib import Path
 
 from qgen.core import new_rng, Builder, TODAY
-from qgen import math_gen, english_gen, chinese_gen, science_gen, humanities_gen
+from qgen import math_gen, english_gen, chinese_gen, science_gen, humanities_gen, poetry_gen
 
 ROOT = Path(__file__).resolve().parent.parent
 BASE = ROOT / "banks" / "ljyu-original"
@@ -21,10 +21,10 @@ DIRS = {"primary": "primary", "junior_high": "junior-high", "senior_high": "seni
 CODE = {"primary": "p", "junior_high": "jh", "senior_high": "sh"}
 SUBCODE = {"chinese": "cn", "math": "ma", "english": "en", "science": "sc",
            "physics": "ph", "chemistry": "ch", "biology": "bi",
-           "history": "hi", "geography": "ge"}
+           "history": "hi", "geography": "ge", "poetry": "pc"}
 SUBJECT_CN = {"chinese": "语文", "math": "数学", "english": "英语", "science": "科学",
               "physics": "物理", "chemistry": "化学", "biology": "生物",
-              "history": "历史", "geography": "地理"}
+              "history": "历史", "geography": "地理", "poetry": "古诗词背诵"}
 STAGE_CN = {"primary": "小学", "junior_high": "初中", "senior_high": "高中"}
 
 # (stage, subject) -> (grades, generator)
@@ -39,9 +39,16 @@ for g in range(10, 13):
     for s in ["chinese", "math", "english", "physics", "chemistry", "biology", "history", "geography"]:
         PLAN.append(("senior_high", s, g))
 
+# 0 年级（不限年级）：小学 + 初中古诗词背诵，各 1000 道选择题
+PLAN.append(("primary", "poetry", 0))
+PLAN.append(("junior_high", "poetry", 0))
+
 
 def gen_for(stage, subject, grade, builder):
-    if subject == "math":
+    if subject == "poetry":
+        poems = poetry_gen.POEMS_PRIMARY if stage == "primary" else poetry_gen.POEMS_JUNIOR
+        poetry_gen.generate(builder, poems)
+    elif subject == "math":
         math_gen.generate(builder)
     elif subject == "english":
         english_gen.generate(builder)
@@ -71,12 +78,13 @@ def make_one(stage, subject, grade, filter_kw=None):
     rng = new_rng(stage, subject, grade, "v1")
     builder = Builder(prefix, grade, stage, subject, rng)
     gen_for(stage, subject, grade, builder)
+    grade_title = "0年级·不限" if grade == 0 else "%d年级" % grade
     bank = {
         "format": "wrong-notebook-question-bank",
         "version": 1,
         "meta": {
             "id": pid,
-            "title": "ljyu13 原创%s%s（%d年级）" % (STAGE_CN[stage], SUBJECT_CN[subject], grade),
+            "title": "ljyu13 原创%s%s（%s）" % (STAGE_CN[stage], SUBJECT_CN[subject], grade_title),
             "stage": stage,
             "subject": subject,
             "grades": [grade],
