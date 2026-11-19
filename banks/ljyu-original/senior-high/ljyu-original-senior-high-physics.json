@@ -1,0 +1,115 @@
+{
+  "format": "wrong-notebook-question-bank",
+  "version": 1,
+  "meta": {
+    "id": "ljyu-original-senior-high-physics",
+    "title": "ljyu13 原创高中物理（十至十二年级）",
+    "stage": "senior_high",
+    "subject": "physics",
+    "grades": [],
+    "count": 6,
+    "tagged": true,
+    "source": "ljyu13 原创编写",
+    "license": "CC-BY-NC-4.0",
+    "updatedAt": "2026-11-19"
+  },
+  "questions": [
+    {
+      "id": "ljyu-sh-ph-01",
+      "grade": 10,
+      "questionType": "single_choice",
+      "text": "下列关于加速度的说法，正确的是？",
+      "options": {
+        "A": "速度越大，加速度越大",
+        "B": "速度变化越快，加速度越大",
+        "C": "速度为零时加速度必为零",
+        "D": "加速度方向总与速度方向相同"
+      },
+      "answer": "B",
+      "analysis": "加速度是描述速度变化快慢的物理量，与速度大小无必然关系。",
+      "knowledgePoints": [
+        "加速度"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ph-02",
+      "grade": 10,
+      "questionType": "calculation",
+      "text": "一个质量为 2 kg 的物体，在 10 N 的水平恒力作用下从静止开始运动，求 3 s 末的速度。（不计摩擦）",
+      "answer": "15 m/s",
+      "analysis": "由牛顿第二定律 a=F/m=10/2=5 m/s²，初速度为零，v=at=5×3=15 m/s。",
+      "knowledgePoints": [
+        "牛顿第二定律"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ph-03",
+      "grade": 10,
+      "questionType": "fill_blank",
+      "text": "在国际单位制中，力学的三个基本单位是米、千克和___。",
+      "answer": "秒（s）",
+      "analysis": "力学中的三个基本物理量是长度、质量、时间，对应基本单位为米、千克、秒。",
+      "knowledgePoints": [
+        "国际单位制"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ph-04",
+      "grade": 11,
+      "questionType": "single_choice",
+      "text": "关于机械能守恒的条件，下列说法正确的是？",
+      "options": {
+        "A": "物体不受任何力",
+        "B": "物体做匀速运动",
+        "C": "只有重力或弹力做功",
+        "D": "合外力为零"
+      },
+      "answer": "C",
+      "analysis": "只有重力或弹力做功时，系统机械能守恒；有其他力做功但不做功为零的情况需具体分析。",
+      "knowledgePoints": [
+        "机械能守恒"
+      ],
+      "difficultyStars": 3,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ph-05",
+      "grade": 11,
+      "questionType": "single_choice",
+      "text": "两个点电荷间的库仑力，当它们距离增大为原来的 2 倍（电荷量不变）时，库仑力变为原来的？",
+      "options": {
+        "A": "1/2",
+        "B": "1/4",
+        "C": "2 倍",
+        "D": "4 倍"
+      },
+      "answer": "B",
+      "analysis": "由库仑定律 F=kq₁q₂/r²，距离变为 2 倍，力变为原来的 1/4。",
+      "knowledgePoints": [
+        "库仑定律"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ph-06",
+      "grade": 12,
+      "questionType": "solution",
+      "text": "一质量为 m 的小球从高 h 处自由落下，不计空气阻力。求小球落地时的速度大小。（重力加速度为 g）",
+      "answer": "v = √(2gh)",
+      "analysis": "由机械能守恒：mgh=½mv²，约去 m 得 v²=2gh，故 v=√(2gh)。",
+      "knowledgePoints": [
+        "自由落体",
+        "机械能守恒"
+      ],
+      "difficultyStars": 3,
+      "source": "ljyu13 原创"
+    }
+  ]
+}
