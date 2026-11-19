@@ -1,0 +1,55 @@
+{
+  "format": "wrong-notebook-question-bank-index",
+  "version": 1,
+  "updatedAt": "2026-11-19",
+  "packages": [
+    {
+      "id": "ljyu-original-primary-math",
+      "title": "ljyu13 原创小学数学（二至六年级）",
+      "stage": "primary",
+      "subject": "math",
+      "grades": [],
+      "count": 10,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/ljyu-original-primary-math.json",
+      "sizeBytes": 4259,
+      "sha256": "aaf582fc20d7cc1791bf6bad8d76fad2e8cbd013ee542857c86e67e585f684a1"
+    },
+    {
+      "id": "ljyu-original-junior-high-physics",
+      "title": "ljyu13 原创初中物理（八至九年级）",
+      "stage": "junior_high",
+      "subject": "physics",
+      "grades": [],
+      "count": 10,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/ljyu-original-junior-high-physics.json",
+      "sizeBytes": 4765,
+      "sha256": "a328deef8cee8795310665b93a94b9219c4b5adc54afac314a32cf96eaef70bd"
+    },
+    {
+      "id": "ljyu-original-senior-high-chemistry",
+      "title": "ljyu13 原创高中化学（十至十二年级）",
+      "stage": "senior_high",
+      "subject": "chemistry",
+      "grades": [],
+      "count": 10,
+      "tagged": true,
+      "source": "ljyu13 原创编写",
+      "license": "CC-BY-NC-4.0",
+      "updatedAt": "2026-11-19",
+      "collection": "ljyu-original",
+      "file": "banks/ljyu-original/ljyu-original-senior-high-chemistry.json",
+      "sizeBytes": 4477,
+      "sha256": "dc80e4b012c7a0eba954654a0073bd648a38f8e7b5109fb2979e08ba2e93e80d"
+    }
+  ]
+}
