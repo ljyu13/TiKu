@@ -366,12 +366,12 @@ def fact_forward(b, facts, prefix):
 
 
 def fact_reverse(b, facts, prefix):
-    """反向单选：给出答案 a，问它对应哪个描述。"""
+    """整改：原反向选择题把答案词摆在题干，改为填空题留空。"""
     q, ans, kp = b.rng.choice(facts)
-    others_q = [x[0] for x in facts if x[0] != q]
-    b.choice("\"%s\"是下列哪一项的表述？" % ans, q,
-             b.rng.sample(others_q, 3), "答案\"%s\"对应的描述是\"%s\"。" % (ans, q),
-             [prefix + kp], difficulty=3)
+    lead = b.rng.choice(["", "请填空：", "根据描述填空："])
+    tail = b.rng.choice(["。", "（填写正确答案）。"])
+    b.fill("%s%s___%s" % (lead, q, tail), ans,
+           "%s%s。" % (q, ans), [prefix + kp], difficulty=3)
 
 
 def fact_fill(b, facts, prefix):
@@ -385,11 +385,12 @@ def fact_judge_true(b, facts, prefix):
 
 
 def fact_judge_false(b, facts, prefix):
-    """错误判断：把错误答案套到描述上。"""
+    """整改：原错误判断题把乱词塞进题干，改为把正确词位置留空的填空题。"""
     q, ans, kp = b.rng.choice(facts)
-    wrong = b.rng.choice([x for x in _answers(facts) if x != ans])
-    b.judge("%s%s。" % (q, wrong), False,
-            "%s%s，表述错误；正确的是%s。" % (q, wrong, ans), [prefix + kp])
+    lead = b.rng.choice(["", "补充完整：", "完成填空："])
+    tail = b.rng.choice(["。", "（填写正确答案）。"])
+    b.fill("%s%s___%s" % (lead, q, tail), ans,
+           "%s%s。" % (q, ans), [prefix + kp])
 
 
 def builtin_judge(b, judges, prefix):
@@ -406,9 +407,16 @@ def h_jf(b): fact_judge_false(b, HISTORY, "历史·")
 def h_builtin(b): builtin_judge(b, HIST_JUDGE, "历史")
 
 # ---- 地理 ----
+def _prov_desc(q, a):
+    """把省份名词补成完整描述，避免填空题出现"北京市___"这类别扭题干。"""
+    if isinstance(q, str) and q.endswith(("省", "市", "自治区", "特别行政区")):
+        return "%s的简称是" % q
+    return q
+
+
 def _geo_pool(b):
     # 把简称和南北差异也纳入事实池（统一为 (q, a, kp)）
-    extra = [(q, a, "中国行政区划") for q, a in PROVINCES]
+    extra = [(_prov_desc(q, a), a, "中国行政区划") for q, a in PROVINCES]
     extra += [(q, a, "中国区域地理") for q, a in NORTH_SOUTH]
     return GEOGRAPHY + extra
 
@@ -450,4 +458,4 @@ def generate_history(b):
 
 
 def generate_geography(b):
-    _fill(b, GEO_FNS, GEOGRAPHY + [(q, a, "中国行政区划") for q, a in PROVINCES])
+    _fill(b, GEO_FNS, GEOGRAPHY + [(_prov_desc(q, a), a, "中国行政区划") for q, a in PROVINCES])
