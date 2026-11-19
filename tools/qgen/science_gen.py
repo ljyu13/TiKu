@@ -686,11 +686,11 @@ def fact_forward(b, facts):
 
 
 def fact_reverse(b, facts):
+    """整改：原反向选择题把答案词摆在题干，改为填空题留空。"""
     q, ans, kp = b.rng.choice(facts)
-    others_q = [x[0] for x in facts if x[0] != q]
-    b.choice("\"%s\"是下列哪一项的描述？" % ans, q,
-             b.rng.sample(others_q, 3), "\"%s\"对应的描述是\"%s\"。" % (ans, q),
-             [kp], difficulty=3)
+    lead = b.rng.choice(["", "请填空：", "根据描述填空："])
+    tail = b.rng.choice(["。", "（填写正确答案）。"])
+    b.fill("%s%s___%s" % (lead, q, tail), ans, "%s%s。" % (q, ans), [kp], difficulty=3)
 
 
 def fact_fill(b, facts):
@@ -704,10 +704,11 @@ def fact_jt(b, facts):
 
 
 def fact_jf(b, facts):
+    """整改：原错误判断题把乱词塞进题干，改为把正确词位置留空的填空题。"""
     q, ans, kp = b.rng.choice(facts)
-    wrong = b.rng.choice([x for x in _ans_pool(facts) if x != ans])
-    b.judge("%s%s。" % (q, wrong), False,
-            "%s%s，表述错误；正确的是%s。" % (q, wrong, ans), [kp])
+    lead = b.rng.choice(["", "补充完整：", "完成填空："])
+    tail = b.rng.choice(["。", "（填写正确答案）。"])
+    b.fill("%s%s___%s" % (lead, q, tail), ans, "%s%s。" % (q, ans), [kp])
 
 
 def chem_more_forward(b): fact_forward(b, CHEM_FACTS)
