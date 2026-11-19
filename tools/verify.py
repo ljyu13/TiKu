@@ -27,7 +27,8 @@ def check(path):
         errs.append("题数=%d（应为1000）" % len(qs))
     if meta.get("count") != len(qs):
         errs.append("count不符")
-    if len(grades) != 1 or grades[0] not in range(*(lambda r: (r[0], r[1] + 1))(STAGE_RANGE[stage])):
+    grade_ok = grades[0] == 0 or grades[0] in range(*(lambda r: (r[0], r[1] + 1))(STAGE_RANGE[stage]))
+    if len(grades) != 1 or not grade_ok:
         errs.append("grades=%s 不符学段" % grades)
     gid = grades[0] if grades else None
     ids, texts = set(), set()
