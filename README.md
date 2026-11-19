@@ -14,13 +14,13 @@
 
 ## 当前内容
 
-题库按来源集分目录，一个包只放一个学段、一个学科。当前来源集 `ljyu-original` 下有 3 个样例包：
+题库按「来源集 → 学段 → 学科」三级组织，一个包只放一个学段、一个学科。当前来源集 `ljyu-original` 覆盖 20 个学科、共 132 道原创题：
 
-- `ljyu-original-primary-math`：小学数学，二至六年级
-- `ljyu-original-junior-high-physics`：初中物理，八至九年级
-- `ljyu-original-senior-high-chemistry`：高中化学，十至十二年级
+- **小学**（4 科）：语文、数学、英语、科学
+- **初中**（8 科）：语文、数学、英语、物理、化学、生物、历史、地理
+- **高中**（8 科）：语文、数学、英语、物理、化学、生物、历史、地理
 
-每包 10 道题，覆盖单选、判断、填空、计算、解答等题型，带答案、解析、知识点和难度标记。题量不大，主要是把结构跑通；后续按同样格式往包里加题即可。
+题型覆盖单选、判断、填空、计算、解答，每题带答案、解析、知识点和难度标记。题量还在积累阶段，后续按同样格式往包里加题即可。
 
 目录和题数见 [`docs/CATALOG.md`](docs/CATALOG.md)，字段规则见 [`docs/FORMAT.md`](docs/FORMAT.md)。
 
@@ -36,9 +36,12 @@ TiKu/
 ├── banks/
 │   └── ljyu-original/
 │       ├── collection.json     来源集声明
-│       └── <包id>.json         题库包
+│       ├── primary/            小学：语文、数学、英语、科学
+│       ├── junior-high/        初中：语数英物化生史地
+│       └── senior-high/        高中：语数英物化生史地
 └── tools/
-    └── tiku.py                 生成索引、校验数据
+    ├── tiku.py                 生成索引、校验数据
+    └── gen_banks.py            从集中定义的题目数据重建所有题库包
 ```
 
 ## 本地维护
@@ -46,11 +49,12 @@ TiKu/
 需要 Python 3.9 或以上，不需要第三方依赖。
 
 ```bash
+python tools/gen_banks.py       # 从题目数据源重建全部题库包（一般改题时用）
 python tools/tiku.py build      # 根据 banks/ 重新生成 index.json 和 docs/CATALOG.md
 python tools/tiku.py validate   # 校验字段、题数、id、答案与选项等
 ```
 
-修改题库包后记得先 `build` 再提交，否则小程序读到的索引还是旧的。
+题目数据集中在 `tools/gen_banks.py` 的 `PRIMARY` / `JUNIOR` / `SENIOR` 三个字典里，改题后先跑 `gen_banks.py` 再跑 `build`。也可以直接编辑 `banks/` 下的 JSON 包，但要保证 `meta.count` 与题数一致；改完记得先 `build` 再提交，否则小程序读到的索引还是旧的。
 
 ## 许可
 
