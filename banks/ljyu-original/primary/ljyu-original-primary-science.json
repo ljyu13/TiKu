@@ -1,0 +1,120 @@
+{
+  "format": "wrong-notebook-question-bank",
+  "version": 1,
+  "meta": {
+    "id": "ljyu-original-primary-science",
+    "title": "ljyu13 原创小学科学（一至六年级）",
+    "stage": "primary",
+    "subject": "science",
+    "grades": [],
+    "count": 6,
+    "tagged": true,
+    "source": "ljyu13 原创编写",
+    "license": "CC-BY-NC-4.0",
+    "updatedAt": "2026-11-19"
+  },
+  "questions": [
+    {
+      "id": "ljyu-p-sc-01",
+      "grade": 3,
+      "questionType": "single_choice",
+      "text": "植物进行光合作用主要依靠哪个器官？",
+      "options": {
+        "A": "根",
+        "B": "茎",
+        "C": "叶",
+        "D": "花"
+      },
+      "answer": "C",
+      "analysis": "叶片中含有叶绿素，是光合作用的主要场所。",
+      "knowledgePoints": [
+        "植物光合作用"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-p-sc-02",
+      "grade": 4,
+      "questionType": "true_false",
+      "text": "在标准大气压下，水在 0℃ 以下会结冰。",
+      "answer": "正确",
+      "analysis": "水的凝固点是 0℃，低于这个温度水会结冰。",
+      "knowledgePoints": [
+        "物态变化"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-p-sc-03",
+      "grade": 5,
+      "questionType": "single_choice",
+      "text": "下列哪种动物属于哺乳动物？",
+      "options": {
+        "A": "鸡",
+        "B": "鸭",
+        "C": "蝙蝠",
+        "D": "青蛙"
+      },
+      "answer": "C",
+      "analysis": "蝙蝠胎生、哺乳，是哺乳动物；鸡和鸭是鸟类，青蛙是两栖动物。",
+      "knowledgePoints": [
+        "动物分类"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-p-sc-04",
+      "grade": 2,
+      "questionType": "fill_blank",
+      "text": "一条彩虹通常可以看到几种主要颜色？",
+      "answer": "7种",
+      "analysis": "彩虹有红、橙、黄、绿、蓝、靛、紫七种主要颜色。",
+      "knowledgePoints": [
+        "光的色散"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-p-sc-05",
+      "grade": 6,
+      "questionType": "single_choice",
+      "text": "月球围绕哪个天体公转？",
+      "options": {
+        "A": "地球",
+        "B": "太阳",
+        "C": "火星",
+        "D": "北极星"
+      },
+      "answer": "A",
+      "analysis": "月球是地球的天然卫星，围绕地球公转。",
+      "knowledgePoints": [
+        "天体运动"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-p-sc-06",
+      "grade": 4,
+      "questionType": "single_choice",
+      "text": "下列物体中，容易导电的是哪一个？",
+      "options": {
+        "A": "塑料尺",
+        "B": "铜钥匙",
+        "C": "橡皮",
+        "D": "玻璃杯"
+      },
+      "answer": "B",
+      "analysis": "铜是金属，容易导电；塑料、橡皮和玻璃都是绝缘体。",
+      "knowledgePoints": [
+        "导体与绝缘体"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    }
+  ]
+}
