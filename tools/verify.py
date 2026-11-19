@@ -49,6 +49,12 @@ def check(path):
             errs.append("非法题型 %s" % t)
         if not q.get("text"):
             errs.append("%s 无题干" % qid)
+        # 题型告知：必须有中文题型名，且题干带【题型】前缀
+        tn = q.get("questionTypeName")
+        if not tn:
+            errs.append("%s 缺 questionTypeName" % qid)
+        elif not q["text"].startswith("【%s】" % tn):
+            errs.append("%s 题干缺题型前缀【%s】" % (qid, tn))
         if not q.get("answer"):
             errs.append("%s 无答案" % qid)
         if not q.get("analysis"):
@@ -56,17 +62,30 @@ def check(path):
         if q.get("grade") != gid:
             errs.append("%s 年级=%s 应为%s" % (qid, q.get("grade"), gid))
         opts = q.get("options")
-        if opts:
-            if len(opts) < 2:
-                errs.append("%s 选项不足" % qid)
-            ans = str(q.get("answer", "")).replace(",", "").replace(" ", "")
-            if t == "single_choice":
-                if ans not in opts:
-                    errs.append("%s 答案%s不在选项" % (qid, ans))
-            elif t == "multiple_choice":
+        ans = str(q.get("answer", "")).replace(",", "").replace(" ", "")
+        if t == "single_choice":
+            # 选择题：必须恰好 ABCD 四个选项，答案为其中一项
+            if not opts or set(opts.keys()) != {"A", "B", "C", "D"}:
+                errs.append("%s 选择题选项不是ABCD" % qid)
+            elif ans not in opts:
+                errs.append("%s 答案%s不在选项" % (qid, ans))
+        elif t == "true_false":
+            # 判断题：必须恰好两个选项 A=正确、B=错误，答案为 A 或 B
+            if opts != {"A": "正确", "B": "错误"}:
+                errs.append("%s 判断题选项应为A正确B错误" % qid)
+            if ans not in ("A", "B"):
+                errs.append("%s 判断题答案非A/B: %s" % (qid, ans))
+        elif t == "multiple_choice":
+            if not opts:
+                errs.append("%s 多选题无选项" % qid)
+            else:
                 for ch in ans:
                     if ch not in opts:
                         errs.append("%s 多选答案%s越界" % (qid, ans))
+        else:
+            # 填空/计算/解答等：走输入框，不应有选项
+            if opts:
+                errs.append("%s 非选择题不应有选项" % qid)
     if empty_analysis:
         errs.append("%d题缺解析" % empty_analysis)
     return errs, types
