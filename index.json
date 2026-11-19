@@ -18,8 +18,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-math-g1.json",
-      "sizeBytes": 339778,
-      "sha256": "f010b35a11dbfdbba11ee810bba8e1a75552a29102c74ca0f7c0e053ff61e6d9"
+      "sizeBytes": 389166,
+      "sha256": "f4e76b3f0acdf1257515b64c5d3dc7af9ac8e38f91bf150a6ac34a67a52f9852"
     },
     {
       "id": "ljyu-original-primary-math-g2",
@@ -36,8 +36,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-math-g2.json",
-      "sizeBytes": 339299,
-      "sha256": "cc8b4b022128dfc1523cf90275d8656c3e476f14f9cfb3b35e710f763fe8fc8a"
+      "sizeBytes": 387994,
+      "sha256": "3d1c6d9b1ae0b57348fae351b15eb0f4c0b0a5fb0587604354e78919cb2e9758"
     },
     {
       "id": "ljyu-original-primary-math-g3",
@@ -54,8 +54,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-math-g3.json",
-      "sizeBytes": 338628,
-      "sha256": "bcf61136f57696efabc396b7b5dd5d5bd55ab74ec52e33ab7a2d3dcc1a6e6a7c"
+      "sizeBytes": 388016,
+      "sha256": "5cf8d945aa38429a8239eeb540c5d69d39579c07f43b541ab24ceed1aea13292"
     },
     {
       "id": "ljyu-original-primary-math-g4",
@@ -72,8 +72,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-math-g4.json",
-      "sizeBytes": 340724,
-      "sha256": "e5334476fd436fe71325574ae92604e43b957557fd747d19a5cb428b4cf9c726"
+      "sizeBytes": 389188,
+      "sha256": "5a60e7faddbb3935cc54217bfe2781b23a426d7f5d5945e9e40b511b8a8baaf6"
     },
     {
       "id": "ljyu-original-primary-math-g5",
@@ -90,8 +90,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-math-g5.json",
-      "sizeBytes": 340919,
-      "sha256": "f64f0edb0974e515b5fb3460bf744d1c67481c7d49aa73c2a96cf9c0d56e9b37"
+      "sizeBytes": 390615,
+      "sha256": "5efa2e1571cfabacfb876c53cfb87fa358eb4ff941d78353ea468d9e11fc8c62"
     },
     {
       "id": "ljyu-original-primary-math-g6",
@@ -108,8 +108,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-math-g6.json",
-      "sizeBytes": 343475,
-      "sha256": "fa5c16714b83ea0cc1632e5de8ac0d6887db5cb0a80d36dbb6387729ea37551f"
+      "sizeBytes": 392478,
+      "sha256": "d1d725a9427b8eb275debefc70837ea597bc6dc80ac2b325996ec47aa9e4f6be"
     },
     {
       "id": "ljyu-original-primary-chinese-g1",
@@ -126,8 +126,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese-g1.json",
-      "sizeBytes": 360992,
-      "sha256": "6a0001630d1aef3f64b09be94882debf22fda32def910549fa4ced1ee0d7816d"
+      "sizeBytes": 467283,
+      "sha256": "659563667745e3ad40c532901ebf9192016bcd48ea89602ea7f294a4dd0d6843"
     },
     {
       "id": "ljyu-original-primary-chinese-g2",
@@ -144,8 +144,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese-g2.json",
-      "sizeBytes": 360822,
-      "sha256": "bf7d3c424f48b1e31c9efe24404bd75bf41d7171478f1eb100aa29cb60967ead"
+      "sizeBytes": 467113,
+      "sha256": "1c2bce059880b8eccd0254423db7e38addce3c83468fb4c5db9429ccf09df0c3"
     },
     {
       "id": "ljyu-original-primary-chinese-g3",
@@ -162,8 +162,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese-g3.json",
-      "sizeBytes": 360101,
-      "sha256": "d896706fa1ae753089430361efb77f96afa3b8f2718a3c3192c2b23cc8cd090a"
+      "sizeBytes": 466392,
+      "sha256": "d11b11c8621040b43e0dabd6e4b09ca6e665cd344f09bd821433fca107021ae3"
     },
     {
       "id": "ljyu-original-primary-chinese-g4",
@@ -180,8 +180,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese-g4.json",
-      "sizeBytes": 361838,
-      "sha256": "fb2b58df22a72b40a9a39852a481f5b62e3fe71069a0cc8966478adf50a324f6"
+      "sizeBytes": 468129,
+      "sha256": "862d4738b76512cc6284c3d5330b55da9de68e51a0acf9816b00796664f4056c"
     },
     {
       "id": "ljyu-original-primary-chinese-g5",
@@ -198,8 +198,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese-g5.json",
-      "sizeBytes": 360743,
-      "sha256": "106ac1a7c3fb5c0515ffd5a2de25fe712bda06b7a2d10859dee60ce66b6673d7"
+      "sizeBytes": 467034,
+      "sha256": "7333434f0380ef7c34e2e1106c411d5d3f71f6869fc6d6125dc4e5291f67dd79"
     },
     {
       "id": "ljyu-original-primary-chinese-g6",
@@ -216,8 +216,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-chinese-g6.json",
-      "sizeBytes": 362533,
-      "sha256": "cf623ca49c863db8136369e164e7de9e32b156e292450295c84cdb2aab8279f7"
+      "sizeBytes": 468824,
+      "sha256": "09c87bc06bd3cc3d1a64a9ef038587826b3d3dfc3401238256599d336de9d376"
     },
     {
       "id": "ljyu-original-primary-english-g1",
@@ -234,8 +234,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-english-g1.json",
-      "sizeBytes": 301570,
-      "sha256": "f9d897a4e05a4fc05e1efcdde9ddd6573dc486433f528deca9c39d044e2804f8"
+      "sizeBytes": 394771,
+      "sha256": "09eac954f347265bec27984a0543911f2f143a0d5fcb4bd717b1c03614738b17"
     },
     {
       "id": "ljyu-original-primary-english-g2",
@@ -252,8 +252,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-english-g2.json",
-      "sizeBytes": 301931,
-      "sha256": "38e24d32799904daaaf043b5c14849d2661aaa2856c8c69e04250d3c0e3949e3"
+      "sizeBytes": 395132,
+      "sha256": "fcc12e89dfa6edeeb69b4ba8bd0c95631784a5cdede2915cb240a52de2318dfa"
     },
     {
       "id": "ljyu-original-primary-english-g3",
@@ -270,8 +270,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-english-g3.json",
-      "sizeBytes": 301894,
-      "sha256": "9a12f59ab1d9b62a2989f48a21c07591c403bd98c7fb462f1becfc008948b78c"
+      "sizeBytes": 395095,
+      "sha256": "5ad3035564cae22e11556849495ee17aa46766b82bcf1cacbedda07b234dd311"
     },
     {
       "id": "ljyu-original-primary-english-g4",
@@ -288,8 +288,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-english-g4.json",
-      "sizeBytes": 301694,
-      "sha256": "da00752a913d3c61d03b9cd98b7456a2a3d5869aaa91fa2de8fe9266f2b5c6c9"
+      "sizeBytes": 394895,
+      "sha256": "3b47dff167deb58487ad39d85e7c33272ac6480fed56e6ce4c0993dd530fbcc2"
     },
     {
       "id": "ljyu-original-primary-english-g5",
@@ -306,8 +306,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-english-g5.json",
-      "sizeBytes": 301482,
-      "sha256": "9683cfa44824f2672a86c5a03589692a49956a229a53048ef7309c4aa2ba5345"
+      "sizeBytes": 394683,
+      "sha256": "44be0f22c3f1a6806a6e264db3acaba5904aa558f40f788a244f95891d9e38cf"
     },
     {
       "id": "ljyu-original-primary-english-g6",
@@ -324,8 +324,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-english-g6.json",
-      "sizeBytes": 301567,
-      "sha256": "a8b7fda81325a854193c570fbafe008e16113ed54a1195809c3762bb76695ecb"
+      "sizeBytes": 394768,
+      "sha256": "be62e2e7c4dd37f03749858cfdc69bf4eb47e912956fef81d1a846383c1a119b"
     },
     {
       "id": "ljyu-original-primary-science-g1",
@@ -342,8 +342,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-science-g1.json",
-      "sizeBytes": 310939,
-      "sha256": "f08999539129ae4eba03793bd914338f2fa1c1b7d21257d654713ffa2c0a9683"
+      "sizeBytes": 388124,
+      "sha256": "f6a64c06004b502b36067f0d4873c6a77cf709de7b3aebfe8ee2379744ca1aba"
     },
     {
       "id": "ljyu-original-primary-science-g2",
@@ -360,8 +360,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-science-g2.json",
-      "sizeBytes": 309314,
-      "sha256": "f054cc56e3a77b240e92874a535ff7f5826ab12dad1fd3a653269847a2971779"
+      "sizeBytes": 386884,
+      "sha256": "21951cf398e1435c8426052443d49b898e8a1db895f96303dc93ca108b76895e"
     },
     {
       "id": "ljyu-original-primary-science-g3",
@@ -378,8 +378,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-science-g3.json",
-      "sizeBytes": 310061,
-      "sha256": "77702f836f6228dfca56d603c3e804fcb5c44bd0ae9e9d74917f82e0848023f2"
+      "sizeBytes": 387400,
+      "sha256": "a9f43f002ecf4a7d3025a0c4a1b768c9edbf9692167fdb993a34e73515d6c300"
     },
     {
       "id": "ljyu-original-primary-science-g4",
@@ -396,8 +396,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-science-g4.json",
-      "sizeBytes": 310472,
-      "sha256": "b6aea9123d0458b14390f3e4aa4770cc1438bdee404312e90dbf906deac6c58f"
+      "sizeBytes": 387965,
+      "sha256": "094b29da5af18df044a1b5d0569964f2239a56c48959b5476d986f4746f2cfdf"
     },
     {
       "id": "ljyu-original-primary-science-g5",
@@ -414,8 +414,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-science-g5.json",
-      "sizeBytes": 310199,
-      "sha256": "5486ea99fd580472e22a291a3a4b75efe94e641a80dc60e18a9991e531bd4dae"
+      "sizeBytes": 387615,
+      "sha256": "6df2a5ddde8568fcde01b4c10bcfbdf828f2c8279efd49c2dbd01c4fc420dd74"
     },
     {
       "id": "ljyu-original-primary-science-g6",
@@ -432,8 +432,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-science-g6.json",
-      "sizeBytes": 308852,
-      "sha256": "647244fe86ce011857ee05cd2d967bf2cab0e0b76900d543edcc0befdf0b8ccc"
+      "sizeBytes": 386345,
+      "sha256": "0d3f5373f43982bade58e8dab17a2d9d2689750e8a118ebf326d0d140b0c9662"
     },
     {
       "id": "ljyu-original-primary-poetry-g0",
@@ -450,8 +450,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/primary/ljyu-original-primary-poetry-g0.json",
-      "sizeBytes": 506315,
-      "sha256": "d307d2431e103e3e26ddc2f5b63082bdf4024343c9eb0b77601d8b93e14d8d7d"
+      "sizeBytes": 552315,
+      "sha256": "a9022ca96cc920fe08a7456d2bec3fda95114225d1cda7e62bb0163767a24c4f"
     },
     {
       "id": "ljyu-original-junior-high-math-g7",
@@ -468,8 +468,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-math-g7.json",
-      "sizeBytes": 355311,
-      "sha256": "0a90aadc2f5d78382a2277a0e32447f6cef11d7631488c35126c880e3b25d25d"
+      "sizeBytes": 401311,
+      "sha256": "f4f2fa133ba3414a76d0acd7af84c4a99b895ee77ac5fcbef91dd13aef977e55"
     },
     {
       "id": "ljyu-original-junior-high-math-g8",
@@ -486,8 +486,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-math-g8.json",
-      "sizeBytes": 355533,
-      "sha256": "f3573847f35b7e30d0adba6b0013703ac16186740b152d1cb6d13fdb09c631ae"
+      "sizeBytes": 401533,
+      "sha256": "029661fc585514f0acb6de89391213440acf4a96ae9d2af72d937c6b31d6a772"
     },
     {
       "id": "ljyu-original-junior-high-math-g9",
@@ -504,8 +504,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-math-g9.json",
-      "sizeBytes": 354209,
-      "sha256": "a7c08142997584181f20dfe695994363855ca09988f6fff0d27eb0bb5f0a458a"
+      "sizeBytes": 400209,
+      "sha256": "5223f534d1575780dbaf326091e345350e649c5e4c56e77813d6fd9db9563e80"
     },
     {
       "id": "ljyu-original-junior-high-chinese-g7",
@@ -522,8 +522,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chinese-g7.json",
-      "sizeBytes": 386766,
-      "sha256": "b8caf7dfc80baf13d9fe6a325b8940d418d278fa73f2d4275b83a1448e3ee189"
+      "sizeBytes": 473099,
+      "sha256": "8260da82811b6b9bf8fef0b98bf0a7b18c9215fd7cf96301d65f38f2426ea154"
     },
     {
       "id": "ljyu-original-junior-high-chinese-g8",
@@ -540,8 +540,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chinese-g8.json",
-      "sizeBytes": 384474,
-      "sha256": "5be5c0417027fb5aa38d7849be42ef40c1e77dcdcf38b667dfaa9ecae8946bbb"
+      "sizeBytes": 471109,
+      "sha256": "a50d2cb653a90868f7346702077b3ec4286f68369dc6e1ec0327d02bdcde62e7"
     },
     {
       "id": "ljyu-original-junior-high-chinese-g9",
@@ -558,8 +558,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chinese-g9.json",
-      "sizeBytes": 386455,
-      "sha256": "dda49b790212e0697dbfe284220868bdb3bce769b9f280cb704cd732b2a08eb3"
+      "sizeBytes": 473292,
+      "sha256": "b4bbc61731d14f81b14956704756cdc1a85d87a9ab49c96800a7a1fd0260e873"
     },
     {
       "id": "ljyu-original-junior-high-english-g7",
@@ -576,8 +576,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-english-g7.json",
-      "sizeBytes": 312741,
-      "sha256": "485475478613e36898dfc01c72a4df62463bc0de3bc55b992ee6ad05a159dec4"
+      "sizeBytes": 410716,
+      "sha256": "dbabf390464a779334fad7fa829256b8bf06c097d6db651c97ae4eee4e83c67a"
     },
     {
       "id": "ljyu-original-junior-high-english-g8",
@@ -594,8 +594,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-english-g8.json",
-      "sizeBytes": 313045,
-      "sha256": "966797f86a1d9ee8058136b0aa4d7f6366079765d9fa11d33e9508ce9228f8f6"
+      "sizeBytes": 411020,
+      "sha256": "1204aa7861a2f021e5f59acd9c88150717f2aa1dd69a5f3520303f6c6aa28f17"
     },
     {
       "id": "ljyu-original-junior-high-english-g9",
@@ -612,8 +612,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-english-g9.json",
-      "sizeBytes": 312809,
-      "sha256": "4d085b6acfa51058ff29c5d2572d9a199bdfbbfd0ba4f1f90a276a774aba945b"
+      "sizeBytes": 410784,
+      "sha256": "31a69985fdae7960f9d803b0aeb59b79c5c0a9ebb326da6c1911d8d185521987"
     },
     {
       "id": "ljyu-original-junior-high-physics-g7",
@@ -630,8 +630,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-physics-g7.json",
-      "sizeBytes": 385299,
-      "sha256": "95659ef4695672b8de5480605f945ef0ae5218209d46791e590e38de3d425b79"
+      "sizeBytes": 432223,
+      "sha256": "fd080f5af53ddf6c8f18654f99003f9918d9989f5877f2b8ddad3721fd90fc2b"
     },
     {
       "id": "ljyu-original-junior-high-physics-g8",
@@ -648,8 +648,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-physics-g8.json",
-      "sizeBytes": 384624,
-      "sha256": "94b3465e469685efd5637a9d34cba144d8961a569bfd4729ed175d0390168d4b"
+      "sizeBytes": 431548,
+      "sha256": "acfb475b0e76ab4a1af657c3227eb9298578be2f08a855e28d5f9f37e95500f9"
     },
     {
       "id": "ljyu-original-junior-high-physics-g9",
@@ -666,8 +666,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-physics-g9.json",
-      "sizeBytes": 384052,
-      "sha256": "9636885eaeb4766518fa08fefbcac09760a91079387106a7e51b6792c0f81089"
+      "sizeBytes": 430976,
+      "sha256": "5412715708be7ec508df1a73e4b11755ce8b7d3c2b632dc04e6f748410e8f85f"
     },
     {
       "id": "ljyu-original-junior-high-chemistry-g7",
@@ -684,8 +684,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry-g7.json",
-      "sizeBytes": 351477,
-      "sha256": "588e18ea8161105ec99626bc05a79825ef30447ae1f4366e6ce7fda1486e3875"
+      "sizeBytes": 446218,
+      "sha256": "3c9bdd4055dbe25ecac5a8457522d693eb6b4207abdae73889ee1f094e850802"
     },
     {
       "id": "ljyu-original-junior-high-chemistry-g8",
@@ -702,8 +702,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry-g8.json",
-      "sizeBytes": 352177,
-      "sha256": "24da947d9138fa1424155eb296f9fc3c03f8b7d2177487a4620020dcf9fb2831"
+      "sizeBytes": 446687,
+      "sha256": "6d370337753562f1ffcc346d3809f552142740aac19dfa63944a7705a835f290"
     },
     {
       "id": "ljyu-original-junior-high-chemistry-g9",
@@ -720,8 +720,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-chemistry-g9.json",
-      "sizeBytes": 349500,
-      "sha256": "59e53fe297373548a9022ba18c6aa2d5f8d0177f3e97c04b0f058c03c9c44abf"
+      "sizeBytes": 444703,
+      "sha256": "904ff1b93dfce7fba9eacd68ffd9a19e8fe659ad4d15bd0487ad36c3750bd077"
     },
     {
       "id": "ljyu-original-junior-high-biology-g7",
@@ -738,8 +738,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-biology-g7.json",
-      "sizeBytes": 347336,
-      "sha256": "89c0ed47d5f753ed84f8293b05b1cc1b19b047ba2639f452e1f0ff7e198ddebf"
+      "sizeBytes": 442231,
+      "sha256": "08d235e301a1b41dfee8af1ac1413444fc8bc11e872674695da92871b9049f1f"
     },
     {
       "id": "ljyu-original-junior-high-biology-g8",
@@ -756,8 +756,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-biology-g8.json",
-      "sizeBytes": 347700,
-      "sha256": "89a90d049e1dd7fed0da28a19fefb65b2c681bb05f3af2bb4afb8f4947b1dbfa"
+      "sizeBytes": 442826,
+      "sha256": "dbc13d51f518000e735d190118254b49701c396b3aa87f00b155d87b03294d77"
     },
     {
       "id": "ljyu-original-junior-high-biology-g9",
@@ -774,8 +774,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-biology-g9.json",
-      "sizeBytes": 347621,
-      "sha256": "8ed2692dbeb08809b04fa97289e4068c129e30e11fa4341278c7d139805ba1f8"
+      "sizeBytes": 442824,
+      "sha256": "df9b16ed13b6726ed06d2e2e59c212477d687253af09b4a7c1a8ce3bf15d05a9"
     },
     {
       "id": "ljyu-original-junior-high-history-g7",
@@ -792,8 +792,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-history-g7.json",
-      "sizeBytes": 375388,
-      "sha256": "2d2a4e1e17a105d8e3c135ad74ff2be02008bfef17c7b26906ab43adfc400cde"
+      "sizeBytes": 460427,
+      "sha256": "6d0d83c41b86b4092d0384889b9c4e6c2ab7987cb1339311b39072b9125b5833"
     },
     {
       "id": "ljyu-original-junior-high-history-g8",
@@ -810,8 +810,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-history-g8.json",
-      "sizeBytes": 374657,
-      "sha256": "db7de16985a9229fc83e9ec865bb24d9e9c2708dfd8232d80a77a6ba0d41abe4"
+      "sizeBytes": 459542,
+      "sha256": "cd44f217537faf70f3c977f4048852a997fc9def1c92ce527aa432c0bad4fc9a"
     },
     {
       "id": "ljyu-original-junior-high-history-g9",
@@ -828,8 +828,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-history-g9.json",
-      "sizeBytes": 373252,
-      "sha256": "589ca6c86931ec36995a1651ad7dab958515689a9155c2331ba4c908d2d0b45c"
+      "sizeBytes": 458060,
+      "sha256": "7b03f9ebecbab34c630318f7c8cd80be506df2ed85ebd0ec32ad006e88f7ed7d"
     },
     {
       "id": "ljyu-original-junior-high-geography-g7",
@@ -846,8 +846,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g7.json",
-      "sizeBytes": 349390,
-      "sha256": "1a7388b5232dc9feb4a50475926bb40319cecdbddf80472fb180559c6337ca2b"
+      "sizeBytes": 438048,
+      "sha256": "c5ad3c9b1305d982c3b889bfcc8be362c6f1091ca2ca7d7002de69a8bdffc269"
     },
     {
       "id": "ljyu-original-junior-high-geography-g8",
@@ -864,8 +864,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g8.json",
-      "sizeBytes": 349556,
-      "sha256": "a387908525a66df0ce1490710ed1bfa6692eef0893aa373fdceab5b9d258d86e"
+      "sizeBytes": 438445,
+      "sha256": "f469eaf4d074eed31181e9572b535ced9eb486f18f9ff1a02c669836558d1850"
     },
     {
       "id": "ljyu-original-junior-high-geography-g9",
@@ -882,8 +882,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g9.json",
-      "sizeBytes": 350258,
-      "sha256": "00313f3e827cc0239b59169b604ffcf42e0056aaa91078bc3ffbcf6a6808c76f"
+      "sizeBytes": 438916,
+      "sha256": "d0cfb158a69b10e7598b94f33f8fea590b515920acc0e1f7f35b2ebfa1803f4e"
     },
     {
       "id": "ljyu-original-junior-high-poetry-g0",
@@ -900,8 +900,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/junior-high/ljyu-original-junior-high-poetry-g0.json",
-      "sizeBytes": 517732,
-      "sha256": "f8fa604bd4d0e492ab5fc394f9bf7924aa632a5c71d654ebc08a1466cbab6b96"
+      "sizeBytes": 563732,
+      "sha256": "8bb989387fb52758e02e1096c80021043a8f17953a391931a9f9fe676c5f3f51"
     },
     {
       "id": "ljyu-original-senior-high-math-g10",
@@ -918,8 +918,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-math-g10.json",
-      "sizeBytes": 361888,
-      "sha256": "5c4471fd24b6c2d0ffb2b1f0a6b651e5c8f69ef5458c89f3c8298798baa19a43"
+      "sizeBytes": 407888,
+      "sha256": "bd896a17fe3557616922e3d2e7d9e517ef0eaa434dbc35dede45129dead1dfb7"
     },
     {
       "id": "ljyu-original-senior-high-math-g11",
@@ -936,8 +936,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-math-g11.json",
-      "sizeBytes": 363072,
-      "sha256": "7a015f8e504b99a0e99b0f0eecdef9e439d6c8c0dda74c57fe55eaa8dec5ff96"
+      "sizeBytes": 409072,
+      "sha256": "da8cf41dbb8c518035a6e612c4c567d4c9a0f010499819ae018e8787fdfe0a47"
     },
     {
       "id": "ljyu-original-senior-high-math-g12",
@@ -954,8 +954,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-math-g12.json",
-      "sizeBytes": 362908,
-      "sha256": "65a1a19cbc614cada49a2da5a13232b0936dea508f4d657a6881fa5a23b37d50"
+      "sizeBytes": 408908,
+      "sha256": "5ac4839c09af7992c75207e11514a14f5902de51b0351058f66775b64edeb000"
     },
     {
       "id": "ljyu-original-senior-high-chinese-g10",
@@ -972,8 +972,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chinese-g10.json",
-      "sizeBytes": 389139,
-      "sha256": "8bffc2fb7950901abdae25f8c5096feb3a99ec118486337260a473992b77ad14"
+      "sizeBytes": 475673,
+      "sha256": "dc64a89a1d66a5ec9b6526533c9fc67caf9b18931aa926f0b055cc6d68a8d0b0"
     },
     {
       "id": "ljyu-original-senior-high-chinese-g11",
@@ -990,8 +990,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chinese-g11.json",
-      "sizeBytes": 388096,
-      "sha256": "8bb97bbecbdf5a780ec1828eb978bbf9c8a6af8a19f2b351c1a3d2df2f43885c"
+      "sizeBytes": 474420,
+      "sha256": "9e724cf9296213471c2ff7994ab46e852f3053b12a0a3dbfad3da521893ba355"
     },
     {
       "id": "ljyu-original-senior-high-chinese-g12",
@@ -1008,8 +1008,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chinese-g12.json",
-      "sizeBytes": 387389,
-      "sha256": "2f5442c8a8bb3ac7698469f6d0eb38c52fe8b713c68f826771a78c88d14dcee1"
+      "sizeBytes": 474300,
+      "sha256": "e8de848a404480788119db511d489e3da09f6fed38da535fa13192fd43cb8841"
     },
     {
       "id": "ljyu-original-senior-high-english-g10",
@@ -1026,8 +1026,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-english-g10.json",
-      "sizeBytes": 346275,
-      "sha256": "c5c42065fe992fa18b8f59c97cd61364b0442b54fe45ce97e01821da02e0033e"
+      "sizeBytes": 405827,
+      "sha256": "dd47b2261026c69ff9fe41ea732bd2300193b6afa586dcff0805c168163946fa"
     },
     {
       "id": "ljyu-original-senior-high-english-g11",
@@ -1044,8 +1044,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-english-g11.json",
-      "sizeBytes": 345715,
-      "sha256": "2d26ce76642bac9ee8a1f4c582a845ac1aac36afeaf409de92d37a95897df006"
+      "sizeBytes": 404728,
+      "sha256": "d03912a998cee63185649b4368654034fa8778c1e77bef6907847c493d9a26c5"
     },
     {
       "id": "ljyu-original-senior-high-english-g12",
@@ -1062,8 +1062,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-english-g12.json",
-      "sizeBytes": 346403,
-      "sha256": "b90c51485b6deb19fc82d30f9bbff51b7ce8ced610a156765df800894bd59c1d"
+      "sizeBytes": 405647,
+      "sha256": "9ada7a407a814f68cb95b64a96f953e0fe132826d6dfe2a46bdb304ce468ec35"
     },
     {
       "id": "ljyu-original-senior-high-physics-g10",
@@ -1080,8 +1080,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-physics-g10.json",
-      "sizeBytes": 384752,
-      "sha256": "38a2596bb2204d39b53063fc0fdd1d06b9d46aadbba2bfa2a5497bb9d7c5e80d"
+      "sizeBytes": 431676,
+      "sha256": "a478a2211721793c77bdcf72392b8fe211e06edf97e1b8224cbe16b820d9fcb3"
     },
     {
       "id": "ljyu-original-senior-high-physics-g11",
@@ -1098,8 +1098,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-physics-g11.json",
-      "sizeBytes": 386595,
-      "sha256": "bc2c636afc292ad98196d56d821bf7b314da247af76ba8e9de823118c19acaa8"
+      "sizeBytes": 433519,
+      "sha256": "5775b393bef3e4465c2a1e1a3924c60655044c651b264b059ac8d11cdd104adc"
     },
     {
       "id": "ljyu-original-senior-high-physics-g12",
@@ -1116,8 +1116,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-physics-g12.json",
-      "sizeBytes": 386382,
-      "sha256": "001eb97d8321877d8ba3d6e1d178b65b0c49fadbd18125ca34c2e720203e7a0d"
+      "sizeBytes": 433306,
+      "sha256": "cce48ffd8fe71409b6f62d44c3ef68ac511b6d48be1aabf3737e2ae994e47257"
     },
     {
       "id": "ljyu-original-senior-high-chemistry-g10",
@@ -1134,8 +1134,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry-g10.json",
-      "sizeBytes": 353839,
-      "sha256": "8f3a8417c48bafffcd54dc2ba531134550e6c9367dff624367aff8f52b2f22f9"
+      "sizeBytes": 449119,
+      "sha256": "753bba0853f45b558ff9b3865821f6b680cf10ca18718c80a8badeb837019db8"
     },
     {
       "id": "ljyu-original-senior-high-chemistry-g11",
@@ -1152,8 +1152,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry-g11.json",
-      "sizeBytes": 353721,
-      "sha256": "14b94307e193f457a772ae468c872afbec00414fc32e76adc76d05992fbf69e3"
+      "sizeBytes": 448462,
+      "sha256": "1960aba7b41108284c197907f27af03833e6614234ad49232993e40834eb0ccc"
     },
     {
       "id": "ljyu-original-senior-high-chemistry-g12",
@@ -1170,8 +1170,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-chemistry-g12.json",
-      "sizeBytes": 352625,
-      "sha256": "979bde34228dfa7aeff609ba0cb8a34a81f7702319df097d6ffd286bc0337b7c"
+      "sizeBytes": 447751,
+      "sha256": "0843ed186be8ed70795c5dd2b10328b4e6dc091bdb6445f36bcb0d197d5ce93d"
     },
     {
       "id": "ljyu-original-senior-high-biology-g10",
@@ -1188,8 +1188,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-biology-g10.json",
-      "sizeBytes": 349459,
-      "sha256": "f4aa48b6248d95889d3da785275b7f429bad4b9977bbbf0c798a6559ba065037"
+      "sizeBytes": 444585,
+      "sha256": "8381bc0228684ed31c9cf81d5f38e32a943e16227ed5d2fb650e6d8dce23509f"
     },
     {
       "id": "ljyu-original-senior-high-biology-g11",
@@ -1206,8 +1206,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-biology-g11.json",
-      "sizeBytes": 349791,
-      "sha256": "09485c2798d1f91894a23da75550b9e4ec8675511b79ad85fe008631356feb07"
+      "sizeBytes": 444686,
+      "sha256": "0669be14c155462c23791facb4aa9acd4432269f2e5ecbe1e2325d98a623c1fe"
     },
     {
       "id": "ljyu-original-senior-high-biology-g12",
@@ -1224,8 +1224,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-biology-g12.json",
-      "sizeBytes": 349626,
-      "sha256": "d4640e39a51b3b3586a23a491c759f26bcb54ca6857460b0daeb59a2ed93e755"
+      "sizeBytes": 445368,
+      "sha256": "5a201ce2a8e65907216eab1f76500c764db35b0fe548a113bef66392b0930956"
     },
     {
       "id": "ljyu-original-senior-high-history-g10",
@@ -1242,8 +1242,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-history-g10.json",
-      "sizeBytes": 377370,
-      "sha256": "994d60a06f306e29122f19525087372bd74e1b1364ae0245fe3ded221607774f"
+      "sizeBytes": 462101,
+      "sha256": "914b72b814d9221881d16699e199dac99f92495a7da71841b3044d2a68307167"
     },
     {
       "id": "ljyu-original-senior-high-history-g11",
@@ -1260,8 +1260,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-history-g11.json",
-      "sizeBytes": 376041,
-      "sha256": "2d8afab9abf0b6f5cce89fff4ac685bb6d44fb875cd9f45a48e0cd38a16277e4"
+      "sizeBytes": 460926,
+      "sha256": "9d2c610f9266090e730bbce587f1e947961856191a4305cd3c9a6c869c605c9a"
     },
     {
       "id": "ljyu-original-senior-high-history-g12",
@@ -1278,8 +1278,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-history-g12.json",
-      "sizeBytes": 377259,
-      "sha256": "667a413a5d797fef47470fc39baaf7457a8beb09eec5fe33d98d81ef735fed68"
+      "sizeBytes": 462298,
+      "sha256": "f31c24137dc3591a806a0148bc88d3d50cb9100229224e9e30651073523f401c"
     },
     {
       "id": "ljyu-original-senior-high-geography-g10",
@@ -1296,8 +1296,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-geography-g10.json",
-      "sizeBytes": 352497,
-      "sha256": "5e053117964f7184c349e8c16b5f04c24100bb87084abeee5ce96349ba8a1029"
+      "sizeBytes": 441155,
+      "sha256": "fcea0ec81325013755ae0f7eb3f95a9e1cffda986799520b15806459ae717ce9"
     },
     {
       "id": "ljyu-original-senior-high-geography-g11",
@@ -1314,8 +1314,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-geography-g11.json",
-      "sizeBytes": 353014,
-      "sha256": "b6dceef470e4bb64812bd39e2a469b83de32df23d7e07a659b459489b245f1c5"
+      "sizeBytes": 441595,
+      "sha256": "70fbbeb8ebba197fb272a39adf9375bef8352f6da35a81674ed3b0bc0026d738"
     },
     {
       "id": "ljyu-original-senior-high-geography-g12",
@@ -1332,8 +1332,8 @@
       "updatedAt": "2026-11-19",
       "collection": "ljyu-original",
       "file": "banks/ljyu-original/senior-high/ljyu-original-senior-high-geography-g12.json",
-      "sizeBytes": 352546,
-      "sha256": "486d3cc461f0023aa14c473d0453c4dbdac4b22114bece18288c18cdf695754b"
+      "sizeBytes": 441050,
+      "sha256": "39e58a1d38e3212f9ec6204346c51dc851e9801d66683a379ccffe9a63ebd1bc"
     }
   ]
 }
