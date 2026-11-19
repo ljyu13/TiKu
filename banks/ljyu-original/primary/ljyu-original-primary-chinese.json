@@ -1,0 +1,115 @@
+{
+  "format": "wrong-notebook-question-bank",
+  "version": 1,
+  "meta": {
+    "id": "ljyu-original-primary-chinese",
+    "title": "ljyu13 原创小学语文（一至六年级）",
+    "stage": "primary",
+    "subject": "chinese",
+    "grades": [],
+    "count": 6,
+    "tagged": true,
+    "source": "ljyu13 原创编写",
+    "license": "CC-BY-NC-4.0",
+    "updatedAt": "2026-11-19"
+  },
+  "questions": [
+    {
+      "id": "ljyu-p-cn-01",
+      "grade": 2,
+      "questionType": "single_choice",
+      "text": "“春眠不觉晓”的下一句是什么？",
+      "options": {
+        "A": "处处闻啼鸟",
+        "B": "夜来风雨声",
+        "C": "花落知多少",
+        "D": "举头望明月"
+      },
+      "answer": "A",
+      "analysis": "出自唐代孟浩然的《春晓》：春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。所以下一句是“处处闻啼鸟”。",
+      "knowledgePoints": [
+        "古诗背诵",
+        "春晓"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-p-cn-02",
+      "grade": 3,
+      "questionType": "fill_blank",
+      "text": "成语“亡羊补牢”中的“牢”指的是什么？",
+      "answer": "羊圈",
+      "analysis": "“牢”在这里指关羊的羊圈。这个故事说明出了问题后及时补救还不算晚。",
+      "knowledgePoints": [
+        "成语理解"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-p-cn-03",
+      "grade": 1,
+      "questionType": "true_false",
+      "text": "“休”字由“人”和“木”组成，意思是一个人靠在树旁休息。",
+      "answer": "正确",
+      "analysis": "“休”是会意字，左边是“人”，右边是“木”，表示人倚着树木休息。",
+      "knowledgePoints": [
+        "汉字构字"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-p-cn-04",
+      "grade": 4,
+      "questionType": "single_choice",
+      "text": "选择最恰当的关联词填空：他（　）学习认真，（　）乐于助人。",
+      "options": {
+        "A": "虽然……但是……",
+        "B": "不但……而且……",
+        "C": "因为……所以……",
+        "D": "如果……就……"
+      },
+      "answer": "B",
+      "analysis": "两个分句意思层层递进，用“不但……而且……”最合适；其余选项表示的转折、因果、假设关系都不符合句意。",
+      "knowledgePoints": [
+        "关联词"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-p-cn-05",
+      "grade": 5,
+      "questionType": "fill_blank",
+      "text": "把反问句改成陈述句：难道这不是好事吗？",
+      "answer": "这是好事。",
+      "analysis": "改陈述句时去掉“难道……吗”，否定变肯定，问号改为句号。",
+      "knowledgePoints": [
+        "句式变换"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-p-cn-06",
+      "grade": 6,
+      "questionType": "single_choice",
+      "text": "“弯弯的月亮像小船”这句话用了哪种修辞手法？",
+      "options": {
+        "A": "拟人",
+        "B": "夸张",
+        "C": "比喻",
+        "D": "排比"
+      },
+      "answer": "C",
+      "analysis": "用“像”把月亮比作小船，本体和喻体都出现，属于比喻。",
+      "knowledgePoints": [
+        "修辞手法"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    }
+  ]
+}
