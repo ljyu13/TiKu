@@ -1,0 +1,114 @@
+{
+  "format": "wrong-notebook-question-bank",
+  "version": 1,
+  "meta": {
+    "id": "ljyu-original-junior-high-biology",
+    "title": "ljyu13 原创初中生物（七至八年级）",
+    "stage": "junior_high",
+    "subject": "biology",
+    "grades": [],
+    "count": 6,
+    "tagged": true,
+    "source": "ljyu13 原创编写",
+    "license": "CC-BY-NC-4.0",
+    "updatedAt": "2026-11-19"
+  },
+  "questions": [
+    {
+      "id": "ljyu-jh-bi-01",
+      "grade": 7,
+      "questionType": "single_choice",
+      "text": "植物细胞区别于动物细胞的结构是？",
+      "options": {
+        "A": "细胞膜",
+        "B": "细胞核",
+        "C": "细胞壁",
+        "D": "细胞质"
+      },
+      "answer": "C",
+      "analysis": "细胞壁、叶绿体和液泡是植物细胞特有的结构，动物细胞没有。",
+      "knowledgePoints": [
+        "细胞结构"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-bi-02",
+      "grade": 7,
+      "questionType": "fill_blank",
+      "text": "绿色植物进行光合作用的场所是细胞中的___。",
+      "answer": "叶绿体",
+      "analysis": "叶绿体中含有叶绿素，是光合作用的场所。",
+      "knowledgePoints": [
+        "光合作用"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-bi-03",
+      "grade": 7,
+      "questionType": "true_false",
+      "text": "人体消化和吸收营养物质的主要场所是小肠。",
+      "answer": "正确",
+      "analysis": "小肠很长，内壁有皱襞和绒毛，是消化和吸收的主要场所。",
+      "knowledgePoints": [
+        "消化系统"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-bi-04",
+      "grade": 8,
+      "questionType": "single_choice",
+      "text": "血液中运输氧气的是哪一种成分？",
+      "options": {
+        "A": "红细胞",
+        "B": "白细胞",
+        "C": "血小板",
+        "D": "血浆"
+      },
+      "answer": "A",
+      "analysis": "红细胞富含血红蛋白，血红蛋白在氧含量高处与氧结合，在氧含量低处与氧分离，从而运输氧气。",
+      "knowledgePoints": [
+        "血液成分"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-bi-05",
+      "grade": 8,
+      "questionType": "fill_blank",
+      "text": "人体呼吸系统的主要器官是___。",
+      "answer": "肺",
+      "analysis": "肺是气体交换的主要场所，是呼吸系统最重要的器官。",
+      "knowledgePoints": [
+        "呼吸系统"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-bi-06",
+      "grade": 8,
+      "questionType": "single_choice",
+      "text": "下列现象中，属于遗传现象的是？",
+      "options": {
+        "A": "一母生九子，九子各不同",
+        "B": "种瓜得瓜，种豆得豆",
+        "C": "橘生淮南则为橘",
+        "D": "蓬生麻中，不扶自直"
+      },
+      "answer": "B",
+      "analysis": "遗传指亲子间的相似性。“种瓜得瓜”体现遗传；“一母生九子，九子各不同”体现变异。",
+      "knowledgePoints": [
+        "遗传与变异"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    }
+  ]
+}
