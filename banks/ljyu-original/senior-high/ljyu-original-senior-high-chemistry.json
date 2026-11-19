@@ -1,0 +1,166 @@
+{
+  "format": "wrong-notebook-question-bank",
+  "version": 1,
+  "meta": {
+    "id": "ljyu-original-senior-high-chemistry",
+    "title": "ljyu13 原创高中化学（十至十二年级）",
+    "stage": "senior_high",
+    "subject": "chemistry",
+    "grades": [],
+    "count": 10,
+    "tagged": true,
+    "source": "ljyu13 原创编写",
+    "license": "CC-BY-NC-4.0",
+    "updatedAt": "2026-11-19"
+  },
+  "questions": [
+    {
+      "id": "ljyu-sh-ch-01",
+      "grade": 10,
+      "questionType": "single_choice",
+      "text": "下列物质中，属于纯净物的是哪一个？",
+      "options": {
+        "A": "空气",
+        "B": "海水",
+        "C": "蒸馏水",
+        "D": "食醋"
+      },
+      "answer": "C",
+      "analysis": "蒸馏水只由水一种物质组成；空气、海水和食醋都是混合物。",
+      "knowledgePoints": [
+        "纯净物与混合物"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ch-02",
+      "grade": 10,
+      "questionType": "fill_blank",
+      "text": "钠原子的原子序数是 11，它的核外电子数是多少？",
+      "answer": "11",
+      "analysis": "原子呈电中性，核外电子数等于原子序数。",
+      "knowledgePoints": [
+        "原子结构"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ch-03",
+      "grade": 10,
+      "questionType": "true_false",
+      "text": "化学反应前后，原子的种类和数目都不发生改变。",
+      "answer": "正确",
+      "analysis": "质量守恒定律的微观解释：反应前后原子的种类、数目和质量都不变，只是重新组合。",
+      "knowledgePoints": [
+        "质量守恒定律"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ch-04",
+      "grade": 10,
+      "questionType": "single_choice",
+      "text": "下列化学用语中，表示两个氢分子的是哪一个？",
+      "options": {
+        "A": "2H",
+        "B": "H₂",
+        "C": "2H₂",
+        "D": "2H⁺"
+      },
+      "answer": "C",
+      "analysis": "2H 表示两个氢原子，H₂ 表示一个氢分子，2H₂ 表示两个氢分子。",
+      "knowledgePoints": [
+        "化学用语"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ch-05",
+      "grade": 11,
+      "questionType": "calculation",
+      "text": "要配制 500 毫升 0.1 mol/L 的氯化钠溶液，需要氯化钠多少克？（NaCl 摩尔质量为 58.5 g/mol）",
+      "answer": "2.925克",
+      "analysis": "n=cV=0.1×0.5=0.05 mol，m=nM=0.05×58.5=2.925 g。",
+      "knowledgePoints": [
+        "物质的量浓度"
+      ],
+      "difficultyStars": 3,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ch-06",
+      "grade": 11,
+      "questionType": "fill_blank",
+      "text": "在反应 2H₂ + O₂ → 2H₂O 中，氧化剂是什么？",
+      "answer": "氧气（O₂）",
+      "analysis": "氧元素化合价从 0 降到 -2，得电子被还原，因此氧气是氧化剂。",
+      "knowledgePoints": [
+        "氧化还原反应"
+      ],
+      "difficultyStars": 3,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ch-07",
+      "grade": 11,
+      "questionType": "single_choice",
+      "text": "下列溶液中，pH 小于 7 的是哪一个？",
+      "options": {
+        "A": "食盐水",
+        "B": "蔗糖水",
+        "C": "柠檬汁",
+        "D": "肥皂水"
+      },
+      "answer": "C",
+      "analysis": "pH 小于 7 呈酸性。柠檬汁含柠檬酸呈酸性；食盐水和蔗糖水接近中性，肥皂水呈碱性。",
+      "knowledgePoints": [
+        "溶液酸碱性"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ch-08",
+      "grade": 12,
+      "questionType": "true_false",
+      "text": "在原电池中，电子从正极经过外电路流向负极。",
+      "answer": "错误",
+      "analysis": "原电池中负极失电子，电子经外电路流向正极，电流方向相反。",
+      "knowledgePoints": [
+        "原电池原理"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ch-09",
+      "grade": 12,
+      "questionType": "solution",
+      "text": "将 10 克碳酸钙充分加热分解，理论上可以得到氧化钙多少克？（CaCO₃ → CaO + CO₂；Ca=40，C=12，O=16）",
+      "answer": "5.6克",
+      "analysis": "CaCO₃ 摩尔质量 100 g/mol，CaO 为 56 g/mol。10 g CaCO₃ 为 0.1 mol，按 1:1 生成 0.1 mol CaO，质量为 0.1×56=5.6 g。",
+      "knowledgePoints": [
+        "化学计算"
+      ],
+      "difficultyStars": 3,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-ch-10",
+      "grade": 12,
+      "questionType": "fill_blank",
+      "text": "检验氯离子时，通常先加稀硝酸酸化，再加入哪种溶液，会产生白色沉淀？",
+      "answer": "硝酸银溶液（AgNO₃）",
+      "analysis": "氯离子与银离子反应生成不溶于稀硝酸的白色氯化银沉淀。",
+      "knowledgePoints": [
+        "离子检验"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    }
+  ]
+}
