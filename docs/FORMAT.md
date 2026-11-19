@@ -71,10 +71,11 @@ python tools/tiku.py validate
 | 字段 | 必填 | 说明 |
 |---|---|---|
 | `id` | 是 | 包内唯一且稳定，发布后尽量不要改 |
-| `text` | 是 | 题干，支持普通文本与 Markdown |
+| `text` | 是 | 题干，开头带 `【题型】` 前缀明确告知题型 |
 | `questionType` | 是 | 见下方题型表 |
-| `options` | 否 | 选项对象，键为 `A`、`B`、`C` 等；选择题必须拆出选项 |
-| `answer` | 否 | 答案；选择题写选项字母 |
+| `questionTypeName` | 是 | 题型中文名（单选题/判断题/填空题/计算题…），与 `text` 前缀一致 |
+| `options` | 否 | 选项对象。选择题为 `A/B/C/D` 四项；判断题为 `{"A":"正确","B":"错误"}` 两项；填空、计算等无选项题不带此字段 |
+| `answer` | 否 | 答案；选择题与判断题写选项字母（A–D），填空/计算题写文本 |
 | `analysis` | 否 | 答案解析 |
 | `knowledgePoints` | 否 | 知识点名称数组 |
 | `grade` | 否 | 1–6 小学，7–9 初中，10–12 高中 |
@@ -83,9 +84,15 @@ python tools/tiku.py validate
 | `source` | 否 | 题目标注的出处 |
 | `material` / `figureSvg` | 否 | 共用材料、内嵌 SVG 图形 |
 
-题型取值：`single_choice`、`multiple_choice`、`true_false`、`fill_blank`、`calculation`、`solution`、`reading`、`cloze`、`writing`、`other`。
+题型取值：`single_choice`（单选题）、`multiple_choice`（多选题）、`true_false`（判断题）、`fill_blank`（填空题）、`calculation`（计算题）、`solution`（解答题）、`reading`、`cloze`、`writing`、`other`。
 
-小程序把带 `options` 的题当选择题，其余当填空题；判断题与填空题都按文本作答处理，因此判断题答案写「正确」或「错误」即可。
+**作答方式（重要）**：小程序把带 `options` 的题渲染成选项按钮，其余渲染成输入框。因此：
+
+- **单选题**：`options` 为 `A/B/C/D` 四个选项，`answer` 写字母。
+- **判断题**：`options` 固定为 `{"A":"正确","B":"错误"}` 两个选项，`answer` 写 `A`（正确）或 `B`（错误）。判断题**必须带选项**，否则会被当成填空题变成空输入框。
+- **填空题、计算题等**：不带 `options`，走输入框，`answer` 写文本。
+
+每题 `text` 开头带 `【题型】` 前缀并有同值的 `questionTypeName` 字段，便于在小程序和目录里明确识别题型。
 
 ## 索引 index.json
 
