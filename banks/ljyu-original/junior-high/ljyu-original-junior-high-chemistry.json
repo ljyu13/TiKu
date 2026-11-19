@@ -1,0 +1,127 @@
+{
+  "format": "wrong-notebook-question-bank",
+  "version": 1,
+  "meta": {
+    "id": "ljyu-original-junior-high-chemistry",
+    "title": "ljyu13 原创初中化学（九年级）",
+    "stage": "junior_high",
+    "subject": "chemistry",
+    "grades": [],
+    "count": 7,
+    "tagged": true,
+    "source": "ljyu13 原创编写",
+    "license": "CC-BY-NC-4.0",
+    "updatedAt": "2026-11-19"
+  },
+  "questions": [
+    {
+      "id": "ljyu-jh-ch-01",
+      "grade": 9,
+      "questionType": "single_choice",
+      "text": "下列物质中，属于纯净物的是哪一个？",
+      "options": {
+        "A": "空气",
+        "B": "海水",
+        "C": "蒸馏水",
+        "D": "食醋"
+      },
+      "answer": "C",
+      "analysis": "蒸馏水只由水一种物质组成；空气、海水和食醋都由多种物质混合而成。",
+      "knowledgePoints": [
+        "纯净物与混合物"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-ch-02",
+      "grade": 9,
+      "questionType": "fill_blank",
+      "text": "写出氧气的化学式：___。",
+      "answer": "O₂",
+      "analysis": "氧气由氧分子构成，每个氧分子含两个氧原子，化学式为 O₂。",
+      "knowledgePoints": [
+        "化学式"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-ch-03",
+      "grade": 9,
+      "questionType": "true_false",
+      "text": "铁生锈属于化学变化。",
+      "answer": "正确",
+      "analysis": "铁生锈生成了新物质铁锈（主要成分氧化铁），属于化学变化。",
+      "knowledgePoints": [
+        "物理变化与化学变化"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-ch-04",
+      "grade": 9,
+      "questionType": "single_choice",
+      "text": "下列化学用语中，表示两个氢分子的是哪一个？",
+      "options": {
+        "A": "2H",
+        "B": "H₂",
+        "C": "2H₂",
+        "D": "2H⁺"
+      },
+      "answer": "C",
+      "analysis": "2H 表示两个氢原子，H₂ 表示一个氢分子，2H₂ 表示两个氢分子。",
+      "knowledgePoints": [
+        "化学用语"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-ch-05",
+      "grade": 9,
+      "questionType": "calculation",
+      "text": "计算二氧化碳（CO₂）的相对分子质量。（相对原子质量：C=12，O=16）",
+      "answer": "44",
+      "analysis": "CO₂ 的相对分子质量 = 12 + 16×2 = 44。",
+      "knowledgePoints": [
+        "相对分子质量"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-ch-06",
+      "grade": 9,
+      "questionType": "fill_blank",
+      "text": "在反应 2H₂ + O₂ → 2H₂O 中，氧化剂是___。",
+      "answer": "氧气（O₂）",
+      "analysis": "氧元素化合价从 0 降低到 -2，得到电子被还原，因此氧气是氧化剂。",
+      "knowledgePoints": [
+        "氧化还原反应"
+      ],
+      "difficultyStars": 3,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-jh-ch-07",
+      "grade": 9,
+      "questionType": "single_choice",
+      "text": "下列溶液中，pH 小于 7 的是哪一个？",
+      "options": {
+        "A": "食盐水",
+        "B": "蔗糖水",
+        "C": "柠檬汁",
+        "D": "肥皂水"
+      },
+      "answer": "C",
+      "analysis": "pH 小于 7 呈酸性。柠檬汁含柠檬酸呈酸性，食盐水和蔗糖水接近中性，肥皂水呈碱性。",
+      "knowledgePoints": [
+        "溶液酸碱性"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    }
+  ]
+}
