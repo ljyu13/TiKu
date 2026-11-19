@@ -1,0 +1,114 @@
+{
+  "format": "wrong-notebook-question-bank",
+  "version": 1,
+  "meta": {
+    "id": "ljyu-original-senior-high-history",
+    "title": "ljyu13 原创高中历史（十至十二年级）",
+    "stage": "senior_high",
+    "subject": "history",
+    "grades": [],
+    "count": 6,
+    "tagged": true,
+    "source": "ljyu13 原创编写",
+    "license": "CC-BY-NC-4.0",
+    "updatedAt": "2026-11-19"
+  },
+  "questions": [
+    {
+      "id": "ljyu-sh-hi-01",
+      "grade": 10,
+      "questionType": "single_choice",
+      "text": "秦朝统一后，为巩固统治在地方上推行的是什么制度？",
+      "options": {
+        "A": "分封制",
+        "B": "郡县制",
+        "C": "行省制",
+        "D": "科举制"
+      },
+      "answer": "B",
+      "analysis": "秦始皇废除分封制，在全国推行郡县制，加强了中央集权。",
+      "knowledgePoints": [
+        "秦朝制度"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-hi-02",
+      "grade": 10,
+      "questionType": "fill_blank",
+      "text": "汉武帝时期，为加强思想统一，采纳董仲舒的建议“___，独尊儒术”。",
+      "answer": "罢黜百家",
+      "analysis": "汉武帝接受董仲舒建议，确立儒家思想的正统地位。",
+      "knowledgePoints": [
+        "汉代思想"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-hi-03",
+      "grade": 10,
+      "questionType": "true_false",
+      "text": "科举制创立于隋朝，完善于唐朝。",
+      "answer": "正确",
+      "analysis": "隋炀帝时设进士科标志科举制正式创立，唐朝时得到完善。",
+      "knowledgePoints": [
+        "科举制"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-hi-04",
+      "grade": 11,
+      "questionType": "single_choice",
+      "text": "标志中国开始沦为半殖民地半封建社会的事件是？",
+      "options": {
+        "A": "鸦片战争",
+        "B": "甲午中日战争",
+        "C": "辛亥革命",
+        "D": "五四运动"
+      },
+      "answer": "A",
+      "analysis": "1840 年鸦片战争后签订《南京条约》，中国开始沦为半殖民地半封建社会。",
+      "knowledgePoints": [
+        "鸦片战争"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-hi-05",
+      "grade": 11,
+      "questionType": "single_choice",
+      "text": "新文化运动高举的两面旗帜是？",
+      "options": {
+        "A": "自强与求富",
+        "B": "变法与图强",
+        "C": "民主与科学",
+        "D": "独立与解放"
+      },
+      "answer": "C",
+      "analysis": "新文化运动提倡民主（德先生）与科学（赛先生）。",
+      "knowledgePoints": [
+        "新文化运动"
+      ],
+      "difficultyStars": 2,
+      "source": "ljyu13 原创"
+    },
+    {
+      "id": "ljyu-sh-hi-06",
+      "grade": 12,
+      "questionType": "solution",
+      "text": "简述辛亥革命的历史意义。",
+      "answer": "推翻了清王朝统治，结束了中国两千多年的君主专制制度，传播了民主共和理念。",
+      "analysis": "辛亥革命推翻了清朝统治，结束了几千年的君主专制，建立了中华民国，使民主共和观念深入人心，为后来的革命斗争创造了条件。",
+      "knowledgePoints": [
+        "辛亥革命"
+      ],
+      "difficultyStars": 3,
+      "source": "ljyu13 原创"
+    }
+  ]
+}
