@@ -2,15 +2,15 @@
 
 > 本文件由 `python tools/tiku.py build` 生成，请勿手工修改。
 
-共 1 个来源集、72 个题库包、72000 道题。
+共 1 个来源集、74 个题库包、74000 道题。
 
 ## 来源集
 
 | 来源集 | 包数 | 题数 |
 |---|---:|---:|
-| `ljyu-original` | 72 | 72000 |
+| `ljyu-original` | 74 | 74000 |
 
-## 小学（24000 题）
+## 小学（25000 题）
 
 | 学科 | 题库包 | 名称 | 题数 | 年级 | 知识点 | 大小 |
 |---|---|---|---:|---|---|---:|
@@ -38,8 +38,9 @@
 | 科学 | [`ljyu-original-primary-science-g4`](../banks/ljyu-original/primary/ljyu-original-primary-science-g4.json) | ljyu13 原创小学科学（4年级） | 1000 | 4 | 有 | 303 KB |
 | 科学 | [`ljyu-original-primary-science-g5`](../banks/ljyu-original/primary/ljyu-original-primary-science-g5.json) | ljyu13 原创小学科学（5年级） | 1000 | 5 | 有 | 303 KB |
 | 科学 | [`ljyu-original-primary-science-g6`](../banks/ljyu-original/primary/ljyu-original-primary-science-g6.json) | ljyu13 原创小学科学（6年级） | 1000 | 6 | 有 | 302 KB |
+| poetry | [`ljyu-original-primary-poetry-g0`](../banks/ljyu-original/primary/ljyu-original-primary-poetry-g0.json) | ljyu13 原创小学古诗词背诵（0年级·不限） | 1000 | 0 | 有 | 494 KB |
 
-## 初中（24000 题）
+## 初中（25000 题）
 
 | 学科 | 题库包 | 名称 | 题数 | 年级 | 知识点 | 大小 |
 |---|---|---|---:|---|---|---:|
@@ -67,6 +68,7 @@
 | 地理 | [`ljyu-original-junior-high-geography-g7`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g7.json) | ljyu13 原创初中地理（7年级） | 1000 | 7 | 有 | 341 KB |
 | 地理 | [`ljyu-original-junior-high-geography-g8`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g8.json) | ljyu13 原创初中地理（8年级） | 1000 | 8 | 有 | 341 KB |
 | 地理 | [`ljyu-original-junior-high-geography-g9`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-geography-g9.json) | ljyu13 原创初中地理（9年级） | 1000 | 9 | 有 | 342 KB |
+| poetry | [`ljyu-original-junior-high-poetry-g0`](../banks/ljyu-original/junior-high/ljyu-original-junior-high-poetry-g0.json) | ljyu13 原创初中古诗词背诵（0年级·不限） | 1000 | 0 | 有 | 506 KB |
 
 ## 高中（24000 题）
 
