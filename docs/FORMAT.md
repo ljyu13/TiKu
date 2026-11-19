@@ -5,11 +5,13 @@
 ## 文件分层
 
 ```
-banks/<来源集>/collection.json   来源集声明：作者、来源、许可、维护者
-banks/<来源集>/<包id>.json       题库包：一个学段、一个学科的题目集合
-index.json                       索引，由 tools/tiku.py build 生成
-docs/CATALOG.md                  人类可读目录，由 build 一并生成
+banks/<来源集>/collection.json          来源集声明：作者、来源、许可、维护者
+banks/<来源集>/<学段>/<包id>.json       题库包：一个学段、一个学科的题目集合
+index.json                              索引，由 tools/tiku.py build 生成
+docs/CATALOG.md                         人类可读目录，由 build 一并生成
 ```
+
+学段目录名为 `primary`（小学）、`junior-high`（初中）、`senior-high`（高中）。`tiku.py` 会递归扫描子目录，题库包放在任意一层都能被索引到。
 
 `index.json` 和 `docs/CATALOG.md` 不要手工改。新增或修改题库包之后运行：
 
@@ -98,7 +100,7 @@ python tools/tiku.py validate
 | 字段 | 含义 |
 |---|---|
 | `collection` | 所属来源集 id |
-| `file` | 相对仓库根目录的包路径，例如 `banks/ljyu-original/ljyu-original-primary-math.json` |
+| `file` | 相对仓库根目录的包路径，例如 `banks/ljyu-original/primary/ljyu-original-primary-math.json` |
 | `sizeBytes` | 文件字节数 |
 | `sha256` | 文件内容校验值 |
 
